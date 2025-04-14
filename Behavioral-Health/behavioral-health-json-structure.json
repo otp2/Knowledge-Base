@@ -1,0 +1,1024 @@
+{
+  "organization": {
+    "name": "Endeavor Health Behavioral Health Network",
+    "mainPhone": "(847) 432-5464",
+    "website": "endeavorhealth.org/services/behavioral-health",
+    "helpLine": "(847) 432-5464",
+    "helpLineAvailability": "24/7",
+    "description": "The largest integrated behavioral health network in Illinois, providing comprehensive mental health services across multiple locations."
+  },
+  "metadata": {
+    "lastUpdated": "April 2025",
+    "version": "1.0"
+  },
+  "levelsOfCare": [
+    {
+      "id": "assessment",
+      "name": "Assessment & Referral",
+      "description": "A confidential evaluation by a licensed professional to recommend the appropriate level of treatment based on symptoms and acuity. Same day appointments are available.",
+      "availableLocations": [
+        "hinsdale", "mokena", "naperville", "plainfield", "st-charles", "linden-oaks-hospital"
+      ]
+    },
+    {
+      "id": "php",
+      "name": "Partial Hospitalization Program (PHP)",
+      "description": "Full-day program (5-6 hours/day), 5 days a week. Group-based programs that provide intensive, structured daily programming to support individuals with depression, anxiety, substance use, eating disorders, or trauma. Daytime and evening options are available.",
+      "availableLocations": [
+        "hinsdale", "mokena", "naperville", "plainfield", "st-charles"
+      ]
+    },
+    {
+      "id": "iop",
+      "name": "Intensive Outpatient Program (IOP)",
+      "description": "Half-day program (3-3.5 hours/day), 5 days a week. Group-based programs that provide intensive, structured daily programming to support individuals with depression, anxiety, substance use, eating disorders, or trauma. Daytime and evening options are available.",
+      "availableLocations": [
+        "hinsdale", "mokena", "naperville", "plainfield", "st-charles"
+      ]
+    },
+    {
+      "id": "inpatient",
+      "name": "Inpatient",
+      "description": "Hospitalization for adolescents, adults, and older adults dealing with severe behavioral health challenges like depression, anxiety, addiction, psychosis, trauma, eating disorders, and more. Our inpatient program provides 24/7 care in a structured environment, with close monitoring and daily sessions with therapists and psychiatrists.",
+      "availableLocations": [
+        "linden-oaks-hospital"
+      ]
+    },
+    {
+      "id": "psychiatric-services",
+      "name": "Psychiatric Services",
+      "description": "Psychiatrists and advanced practice providers provide medication management and individual therapy.",
+      "availableLocations": [
+        "addison", "chicago", "deerfield", "evanston-center", "glenview", "gurnee", "hinsdale", "mokena", 
+        "naperville", "plainfield", "skokie", "st-charles", "woodridge", "evanston-hospital", 
+        "highland-park-hospital", "northwest-community-hospital", "swedish-hospital"
+      ]
+    },
+    {
+      "id": "counseling",
+      "name": "Counseling",
+      "description": "Therapists provide traditional outpatient talk therapy.",
+      "availableLocations": [
+        "addison", "woodridge"
+      ]
+    },
+    {
+      "id": "medication-management",
+      "name": "Medication Management",
+      "description": "Psychiatrists, PAs and APNs help patients manage and regulate their medication.",
+      "availableLocations": [
+        "addison", "woodridge"
+      ]
+    }
+  ],
+  "specializedPrograms": [
+    {
+      "id": "mental-health",
+      "name": "Mental Health Program",
+      "description": "Support for depression, anxiety, psychosis and other mental health challenges.",
+      "availableLocations": [
+        "hinsdale", "mokena", "naperville", "plainfield", "st-charles", "linden-oaks-hospital"
+      ],
+      "conditions": ["depression", "anxiety", "mood-disorders", "psychosis"]
+    },
+    {
+      "id": "addictions",
+      "name": "Addictions and Dual Diagnosis",
+      "description": "A program for each stage of the addiction and recovery process, including dual diagnosis, detoxification, and group therapy.",
+      "availableLocations": [
+        "linden-oaks-hospital", "plainfield", "naperville"
+      ],
+      "conditions": ["substance-use", "dual-diagnosis"],
+      "subPrograms": [
+        {
+          "id": "oars",
+          "name": "OARS",
+          "description": "Advanced care for substance use recovery, including alcohol and opioids, with a multidisciplinary team addressing co-occurring mental health needs."
+        }
+      ]
+    },
+    {
+      "id": "anxiety-ocd",
+      "name": "Anxiety and OCD",
+      "description": "General mental health program to treat any anxiety disorders, including OCD.",
+      "availableLocations": [
+        "naperville"
+      ],
+      "conditions": ["anxiety", "ocd"],
+      "subPrograms": [
+        {
+          "id": "child-anxiety",
+          "name": "Child Anxiety Program",
+          "description": "Program to assist children in comprehending, managing, and tolerating their anxiety."
+        }
+      ]
+    },
+    {
+      "id": "eating-disorders",
+      "name": "Eating Disorders",
+      "description": "Specialized inpatient care for eating disorders, led by a multidisciplinary team offering the latest techniques for treating those struggling with anorexia, bulimia, and other related conditions.",
+      "availableLocations": [
+        "linden-oaks-hospital"
+      ],
+      "conditions": ["eating-disorders", "anorexia", "bulimia"]
+    },
+    {
+      "id": "trauma-ptsd",
+      "name": "PTSD and Trauma",
+      "description": "Highly effective, short-term, group-based therapy for people with PTSD or Trauma.",
+      "availableLocations": [
+        "mokena", "naperville"
+      ],
+      "conditions": ["ptsd", "trauma"]
+    },
+    {
+      "id": "autism-mental-health",
+      "name": "Autism & Mental Health Program - Aspirations",
+      "description": "Program designed to assist adolescents with autism spectrum disorder (ASD) in effectively managing anxiety and/or depression.",
+      "availableLocations": [
+        "naperville"
+      ],
+      "conditions": ["autism", "anxiety", "depression"]
+    },
+    {
+      "id": "tms",
+      "name": "TMS",
+      "description": "Advanced treatment designed to help patients struggling with conditions like depression, depression with anxiety, OCD, and smoking addiction.",
+      "availableLocations": [
+        "naperville"
+      ],
+      "conditions": ["depression", "anxiety", "ocd", "addiction"]
+    },
+    {
+      "id": "psychosis",
+      "name": "Psychosis Program",
+      "description": "Program for individuals experiencing significant mental health challenges, focusing on improving academic, work, social, and daily functioning impacted by psychosis.",
+      "availableLocations": [
+        "naperville"
+      ],
+      "conditions": ["psychosis"]
+    },
+    {
+      "id": "creative-arts",
+      "name": "Evening Creative Arts Program",
+      "description": "Group-based program that incorporates Art Therapy, Music Therapy, Dance/Movement Therapy, Animal-Assisted Therapy, Horticultural Therapy, Recreation Therapy, and Occupational Therapy.",
+      "availableLocations": [
+        "hinsdale"
+      ],
+      "treatmentModalities": ["art-therapy", "music-therapy", "dance-movement-therapy", "animal-assisted-therapy", "horticultural-therapy", "recreation-therapy", "occupational-therapy"]
+    },
+    {
+      "id": "emerging-adult",
+      "name": "Emerging Adult Program",
+      "description": "Tailored to young adults struggling with mental health challenges while navigating the transition to adulthood. We utilize Acceptance and Commitment Therapy and Motivational Interviewing to support growth and resilience.",
+      "availableLocations": [
+        "st-charles"
+      ],
+      "conditions": ["anxiety", "depression", "transition-issues"],
+      "treatmentModalities": ["acceptance-commitment-therapy", "motivational-interviewing"]
+    },
+    {
+      "id": "geriatric-mental-health",
+      "name": "Geriatric Mental Health",
+      "description": "Support designed specifically for older adults, addressing conditions such as depression, anxiety, and age-related concerns with a focus on comprehensive support.",
+      "availableLocations": [
+        "linden-oaks-hospital"
+      ],
+      "conditions": ["depression", "anxiety", "age-related-concerns"],
+      "ageGroups": ["older-adults"]
+    }
+  ],
+  "treatmentModalities": [
+    {
+      "id": "acceptance-commitment-therapy",
+      "name": "Acceptance and Commitment Therapy",
+      "abbreviation": "ACT",
+      "description": "A form of psychotherapy that uses acceptance and mindfulness strategies to increase psychological flexibility."
+    },
+    {
+      "id": "art-therapy",
+      "name": "Art Therapy",
+      "description": "A form of psychotherapy involving the encouragement of free self-expression through painting, drawing, or modeling."
+    },
+    {
+      "id": "attachment-relational-therapy",
+      "name": "Attachment/Relational Therapy",
+      "description": "A therapeutic approach focusing on the attachment relationships formed early in life and how they affect current relationships."
+    },
+    {
+      "id": "bio-feedback",
+      "name": "Bio Feedback",
+      "description": "A technique that trains people to improve their health by controlling certain bodily processes that normally happen involuntarily."
+    },
+    {
+      "id": "client-centered",
+      "name": "Client Centered",
+      "description": "A non-directive form of talk therapy developed by humanist psychologist Carl Rogers where the client takes the lead in sessions."
+    },
+    {
+      "id": "cognitive-behavioral-therapy",
+      "name": "Cognitive Behavioral Therapy",
+      "abbreviation": "CBT",
+      "description": "A psycho-social intervention that aims to improve mental health by challenging and changing cognitive distortions and behaviors."
+    },
+    {
+      "id": "cognitive-behavioral-therapy-insomnia",
+      "name": "Cognitive Behavioral Therapy for Insomnia",
+      "abbreviation": "CBT-I",
+      "description": "A structured program that helps you identify and replace thoughts and behaviors that cause or worsen sleep problems with habits that promote sound sleep."
+    },
+    {
+      "id": "cognitive-processing-therapy",
+      "name": "Cognitive Processing Therapy",
+      "description": "A specific type of cognitive behavioral therapy that has been effective in reducing symptoms of PTSD."
+    },
+    {
+      "id": "structural-family-therapy",
+      "name": "Structural Family Therapy",
+      "description": "A therapy that examines and changes the family structure to allow it to develop healthier patterns."
+    },
+    {
+      "id": "couples-therapy",
+      "name": "Couples",
+      "description": "Therapy focused on helping couples recognize and resolve conflicts to improve their relationship."
+    },
+    {
+      "id": "critical-incident-debriefing",
+      "name": "Critical Incident Debriefing",
+      "description": "A process that prevents or limits the development of post-traumatic stress in people exposed to critical incidents."
+    },
+    {
+      "id": "dialectical-behavior-therapy",
+      "name": "Dialectical Behavior Therapy",
+      "abbreviation": "DBT",
+      "description": "A modified form of cognitive-behavioral therapy that treats conditions where emotional regulation is difficult."
+    },
+    {
+      "id": "eclectic",
+      "name": "Eclectic",
+      "description": "An approach that draws upon multiple theoretical frameworks to develop the optimal treatment for each individual."
+    },
+    {
+      "id": "emotion-efficacy-therapy",
+      "name": "Emotion Efficacy Therapy",
+      "description": "A brief, skills-based intervention that combines elements of acceptance and commitment therapy with emotion regulation skills."
+    },
+    {
+      "id": "emotion-focused-therapy",
+      "name": "Emotion Focused Therapy",
+      "description": "A therapy approach that focuses on helping people become aware of, experience, accept, express, utilize, regulate, and transform emotions."
+    },
+    {
+      "id": "electroconvulsive-therapy",
+      "name": "Electroconvulsive Therapy",
+      "abbreviation": "ECT",
+      "description": "A procedure, done under general anesthesia, in which small electric currents are passed through the brain, intentionally triggering a brief seizure to quickly reverse symptoms of certain mental health conditions."
+    },
+    {
+      "id": "enhanced-cognitive-behavior-therapy",
+      "name": "Enhanced Cognitive Behavior Therapy",
+      "description": "A type of CBT specifically enhanced for the treatment of eating disorders."
+    },
+    {
+      "id": "exposure-response-prevention",
+      "name": "Exposure Response Prevention",
+      "abbreviation": "ERP",
+      "description": "A form of psychotherapy that was developed to treat obsessive-compulsive disorder by exposing patients to feared stimuli while preventing the ritualistic response."
+    },
+    {
+      "id": "expressive-therapy",
+      "name": "Expressive",
+      "description": "A therapeutic approach that uses creative activities to help people express their thoughts and feelings."
+    },
+    {
+      "id": "family-therapy",
+      "name": "Family",
+      "description": "A type of psychological counseling that helps family members improve communication and resolve conflicts."
+    },
+    {
+      "id": "family-systems",
+      "name": "Family Systems",
+      "description": "A therapy that views problems within the family as a result of the system's dysfunction rather than as a result of individual members' issues."
+    },
+    {
+      "id": "gestalt-therapy",
+      "name": "Gestalt",
+      "description": "A humanistic therapy that focuses on the individual's experience in the present moment and the relationships between people and their environment."
+    },
+    {
+      "id": "gottman",
+      "name": "Gottman",
+      "description": "A research-based approach to relationships that focuses on strengthening the friendship between partners and managing conflict constructively."
+    },
+    {
+      "id": "group-therapy",
+      "name": "Group Therapy",
+      "description": "A form of psychotherapy in which a group of patients meet to discuss and explore their personal problems together under the supervision of a therapist."
+    },
+    {
+      "id": "hypnotherapy",
+      "name": "Hypnotherapy/Hypnosis",
+      "description": "A type of complementary medicine that uses guided relaxation, intense concentration, and focused attention to achieve a heightened state of awareness."
+    },
+    {
+      "id": "internal-family-systems",
+      "name": "Internal Family Systems",
+      "abbreviation": "IFS",
+      "description": "A model of psychotherapy that believes the mind is naturally multiple, composed of sub-personalities or 'parts' that can be healed and transformed through the relationship with the core Self."
+    },
+    {
+      "id": "medication-assisted-therapy",
+      "name": "Medication Assisted Therapy",
+      "abbreviation": "MAT",
+      "description": "The use of medications, in combination with counseling and behavioral therapies, to provide a whole-patient approach to the treatment of substance use disorders."
+    },
+    {
+      "id": "meditation",
+      "name": "Meditation",
+      "description": "A practice where an individual uses a technique – such as mindfulness, or focusing the mind on a particular object, thought, or activity – to train attention and awareness."
+    },
+    {
+      "id": "mind-body-connection",
+      "name": "Mind Body Connection",
+      "description": "A therapy that emphasizes the interaction between brain, mind, body, and behavior, and the ways in which emotional, mental, social, spiritual, and behavioral factors can directly affect health."
+    },
+    {
+      "id": "mindfulness-based-cognitive",
+      "name": "Mindfulness Based Cognitive",
+      "description": "A psychological therapy that uses traditional cognitive behavioral therapy methods together with mindfulness meditative practices."
+    },
+    {
+      "id": "mindfulness-based-stress-reduction",
+      "name": "Mindfulness Based Stress Reduction",
+      "abbreviation": "MBSR",
+      "description": "An intensive mindfulness training program that helps you access your inner resources for coping, growing, and healing."
+    },
+    {
+      "id": "motivational-interviewing",
+      "name": "Motivational Interviewing",
+      "description": "A counseling method that helps people resolve ambivalent feelings and insecurities to find the internal motivation they need to change their behavior."
+    },
+    {
+      "id": "narrative-therapy",
+      "name": "Narrative Therapy",
+      "description": "A form of psychotherapy that seeks to help people identify their values and the skills associated with them by examining the stories of their lives."
+    },
+    {
+      "id": "neurofeedback",
+      "name": "Neurofeedback",
+      "description": "A type of biofeedback that uses real-time displays of brain activity to teach self-regulation of brain function."
+    },
+    {
+      "id": "neuropsychological-testing",
+      "name": "Neuropsychological Testing",
+      "description": "A comprehensive evaluation of cognitive, motor, behavioral, linguistic, and executive functioning to assess brain functioning."
+    },
+    {
+      "id": "parent-child-interaction-therapy",
+      "name": "Parent Child Interaction Therapy",
+      "abbreviation": "PCIT",
+      "description": "A family-centered treatment approach that helps improve the quality of the parent-child relationship and change parent-child interaction patterns."
+    },
+    {
+      "id": "person-centered-therapy",
+      "name": "Person Centered Therapy",
+      "description": "A non-directive talk therapy approach that emphasizes the personal relationship between therapist and client."
+    },
+    {
+      "id": "play-therapy",
+      "name": "Play Therapy",
+      "description": "A form of therapy primarily used with children to help them express their feelings and deal with emotional problems through play activities."
+    },
+    {
+      "id": "psychodynamic-therapy",
+      "name": "Psychodynamic Therapy",
+      "description": "A form of depth psychology, the primary focus of which is to reveal the unconscious content of a client's psyche in an effort to alleviate psychic tension."
+    },
+    {
+      "id": "psychological-testing",
+      "name": "Psychological Testing",
+      "description": "The administration of psychological tests to assess a variety of mental abilities and attributes."
+    },
+    {
+      "id": "psychopharmacology",
+      "name": "Psychopharmacology",
+      "description": "The use of medications in treating mental disorders."
+    },
+    {
+      "id": "rapid-resolution-therapy",
+      "name": "Rapid Resolution Therapy",
+      "abbreviation": "RRT",
+      "description": "A form of psychotherapy that aims to help resolve the ongoing effects of trauma, abuse, panic, anxiety, and anger by clearing negative emotions connected to traumatic events."
+    },
+    {
+      "id": "rational-emotive-behavioral-therapy",
+      "name": "Rational Emotive Behavioral Therapy",
+      "abbreviation": "REBT",
+      "description": "A type of cognitive-behavioral therapy that helps identify irrational beliefs, challenge these beliefs, and replace them with healthier, more productive beliefs."
+    },
+    {
+      "id": "sand-tray",
+      "name": "Sand Tray",
+      "description": "A form of expressive therapy that enables a person to explore their thoughts and feelings through the creation of a three-dimensional scene in a tray filled with sand."
+    },
+    {
+      "id": "solutions-focused-therapy",
+      "name": "Solutions Focused Therapy",
+      "description": "A goal-directed collaborative approach to psychotherapeutic change that focuses on what clients want to achieve without exploring the history of the problem."
+    },
+    {
+      "id": "somatic-experience",
+      "name": "Somatic Experience",
+      "description": "A type of therapy that focuses on bodily sensations to help heal from trauma and other mental and emotional health issues."
+    },
+    {
+      "id": "strengths-based-therapy",
+      "name": "Strengths Based Therapy",
+      "description": "A type of therapy that focuses on a person's strengths and capabilities rather than weaknesses or issues."
+    },
+    {
+      "id": "transcranial-magnetic-stimulation",
+      "name": "Transcranial Magnetic Stimulation",
+      "abbreviation": "TMS",
+      "description": "A noninvasive procedure that uses magnetic fields to stimulate nerve cells in the brain to improve symptoms of depression."
+    },
+    {
+      "id": "trauma-informed",
+      "name": "Trauma Informed",
+      "description": "A treatment approach that emphasizes understanding, recognizing, and responding to the effects of all types of trauma."
+    },
+    {
+      "id": "yoga",
+      "name": "Yoga",
+      "description": "A mind and body practice with a 5,000-year history in ancient Indian philosophy that combines physical postures, breathing exercises, meditation, and a distinct philosophy."
+    },
+    {
+      "id": "music-therapy",
+      "name": "Music Therapy",
+      "description": "The clinical and evidence-based use of music interventions to accomplish individualized goals within a therapeutic relationship."
+    },
+    {
+      "id": "dance-movement-therapy",
+      "name": "Dance/Movement Therapy",
+      "description": "The psychotherapeutic use of movement to promote emotional, social, cognitive, and physical integration."
+    },
+    {
+      "id": "animal-assisted-therapy",
+      "name": "Animal-Assisted Therapy",
+      "description": "A type of therapy that involves animals as a form of treatment to improve a patient's social, emotional, or cognitive functioning."
+    },
+    {
+      "id": "horticultural-therapy",
+      "name": "Horticultural Therapy",
+      "description": "A process that uses plants and gardening to improve physical and mental health."
+    },
+    {
+      "id": "recreation-therapy",
+      "name": "Recreation Therapy",
+      "description": "A systematic process that utilizes recreation and other activity-based interventions to address the needs of individuals with illnesses or disabling conditions."
+    },
+    {
+      "id": "occupational-therapy",
+      "name": "Occupational Therapy",
+      "description": "A form of therapy for those recovering from physical or mental illness that encourages rehabilitation through the performance of activities required in daily life."
+    }
+  ],
+  "conditions": [
+    {
+      "id": "adhd",
+      "name": "ADHD",
+      "fullName": "Attention-Deficit/Hyperactivity Disorder",
+      "description": "A neurodevelopmental disorder characterized by persistent patterns of inattention, hyperactivity, and impulsivity that interferes with functioning or development.",
+      "recommendedTreatmentModalities": ["cognitive-behavioral-therapy", "medication-assisted-therapy", "parent-child-interaction-therapy"],
+      "availableLocations": ["addison", "woodridge", "naperville"]
+    },
+    {
+      "id": "addiction",
+      "name": "Addiction",
+      "description": "A complex condition characterized by compulsive substance use despite harmful consequences.",
+      "recommendedTreatmentModalities": ["cognitive-behavioral-therapy", "dialectical-behavior-therapy", "medication-assisted-therapy", "motivational-interviewing", "group-therapy"],
+      "availableLocations": ["linden-oaks-hospital", "plainfield", "naperville", "addison", "woodridge"]
+    },
+    {
+      "id": "age-related-concerns",
+      "name": "Age-Related Concerns",
+      "description": "Mental health concerns specific to older adults, which may include cognitive changes, adjustment to life transitions, grief, and isolation.",
+      "recommendedTreatmentModalities": ["cognitive-behavioral-therapy", "reminiscence-therapy", "group-therapy"],
+      "availableLocations": ["linden-oaks-hospital"]
+    },
+    {
+      "id": "anger-management",
+      "name": "Anger Management",
+      "description": "Difficulties controlling anger, which may lead to impulsive behavior, strained relationships, or legal consequences.",
+      "recommendedTreatmentModalities": ["cognitive-behavioral-therapy", "dialectical-behavior-therapy", "mindfulness-based-stress-reduction"],
+      "availableLocations": ["addison", "woodridge"]
+    },
+    {
+      "id": "anorexia",
+      "name": "Anorexia Nervosa",
+      "description": "An eating disorder characterized by an abnormally low body weight, intense fear of gaining weight, and a distorted perception of body weight.",
+      "recommendedTreatmentModalities": ["enhanced-cognitive-behavior-therapy", "family-therapy", "psychopharmacology", "psychodynamic-therapy"],
+      "availableLocations": ["linden-oaks-hospital", "naperville"]
+    },
+    {
+      "id": "anxiety",
+      "name": "Anxiety",
+      "description": "A mental health condition characterized by feelings of worry, anxiety, or fear that are strong enough to interfere with daily activities.",
+      "recommendedTreatmentModalities": ["cognitive-behavioral-therapy", "exposure-response-prevention", "mindfulness-based-stress-reduction", "dialectical-behavior-therapy"],
+      "availableLocations": ["addison", "chicago", "deerfield", "evanston-center", "glenview", "gurnee", "hinsdale", "mokena", "naperville", "plainfield", "skokie", "st-charles", "woodridge", "evanston-hospital", "highland-park-hospital", "linden-oaks-hospital", "northwest-community-hospital", "swedish-hospital"]
+    },
+    {
+      "id": "autism",
+      "name": "Autism Spectrum Disorder",
+      "description": "A neurodevelopmental disorder characterized by challenges with social skills, repetitive behaviors, speech and nonverbal communication.",
+      "recommendedTreatmentModalities": ["cognitive-behavioral-therapy", "play-therapy", "parent-child-interaction-therapy", "social-skills-training"],
+      "availableLocations": ["naperville"]
+    },
+    {
+      "id": "behavior-issues",
+      "name": "Behavior Issues",
+      "description": "Disruptive, problematic, or challenging behaviors that interfere with daily life, relationships, or normal development.",
+      "recommendedTreatmentModalities": ["cognitive-behavioral-therapy", "parent-child-interaction-therapy", "dialectical-behavior-therapy"],
+      "availableLocations": ["addison", "woodridge"]
+    },
+    {
+      "id": "bulimia",
+      "name": "Bulimia Nervosa",
+      "description": "An eating disorder characterized by binge eating followed by methods to avoid weight gain, such as self-induced vomiting, fasting, or excessive exercise.",
+      "recommendedTreatmentModalities": ["enhanced-cognitive-behavior-therapy", "dialectical-behavior-therapy", "psychopharmacology"],
+      "availableLocations": ["linden-oaks-hospital", "naperville"]
+    },
+    {
+      "id": "depression",
+      "name": "Depression",
+      "description": "A mood disorder that causes a persistent feeling of sadness and loss of interest, affecting how one feels, thinks, and behaves.",
+      "recommendedTreatmentModalities": ["cognitive-behavioral-therapy", "interpersonal-therapy", "psychopharmacology", "transcranial-magnetic-stimulation", "electroconvulsive-therapy"],
+      "availableLocations": ["addison", "chicago", "deerfield", "evanston-center", "glenview", "gurnee", "hinsdale", "mokena", "naperville", "plainfield", "skokie", "st-charles", "woodridge", "evanston-hospital", "highland-park-hospital", "linden-oaks-hospital", "northwest-community-hospital", "swedish-hospital"]
+    },
+    {
+      "id": "dual-diagnosis",
+      "name": "Dual Diagnosis",
+      "description": "The co-occurrence of both a mental health disorder and a substance use disorder, requiring integrated treatment approaches.",
+      "recommendedTreatmentModalities": ["cognitive-behavioral-therapy", "dialectical-behavior-therapy", "medication-assisted-therapy", "integrated-dual-diagnosis-treatment"],
+      "availableLocations": ["linden-oaks-hospital", "plainfield", "naperville", "addison", "woodridge"]
+    },
+    {
+      "id": "eating-disorders",
+      "name": "Eating Disorders",
+      "description": "Serious conditions related to persistent eating behaviors that negatively impact health, emotions, and ability to function in important areas of life.",
+      "recommendedTreatmentModalities": ["enhanced-cognitive-behavior-therapy", "family-therapy", "dialectical-behavior-therapy", "psychopharmacology"],
+      "availableLocations": ["linden-oaks-hospital", "naperville"]
+    },
+    {
+      "id": "grief",
+      "name": "Grief",
+      "description": "The natural emotional response to loss, particularly the loss of someone or something to which a bond was formed.",
+      "recommendedTreatmentModalities": ["psychodynamic-therapy", "cognitive-behavioral-therapy", "group-therapy", "complicated-grief-therapy"],
+      "availableLocations": ["addison", "woodridge"]
+    },
+    {
+      "id": "life-transitions",
+      "name": "Life Transitions",
+      "description": "Significant life changes such as relocation, career changes, marriage, divorce, or retirement that can cause stress and adjustment difficulties.",
+      "recommendedTreatmentModalities": ["cognitive-behavioral-therapy", "solution-focused-therapy", "narrative-therapy"],
+      "availableLocations": ["addison", "woodridge", "st-charles"]
+    },
+    {
+      "id": "mood-disorders",
+      "name": "Mood Disorders",
+      "description": "A category of mental health problems that includes all types of depression and bipolar disorder, characterized by serious changes in mood.",
+      "recommendedTreatmentModalities": ["cognitive-behavioral-therapy", "psychopharmacology", "interpersonal-therapy", "electroconvulsive-therapy"],
+      "availableLocations": ["addison", "woodridge", "hinsdale", "mokena", "naperville", "plainfield", "linden-oaks-hospital"]
+    },
+    {
+      "id": "ocd",
+      "name": "Obsessive-Compulsive Disorder",
+      "description": "A mental health condition characterized by unwanted, intrusive thoughts (obsessions) and repetitive behaviors or mental acts (compulsions).",
+      "recommendedTreatmentModalities": ["exposure-response-prevention", "cognitive-behavioral-therapy", "psychopharmacology"],
+      "availableLocations": ["naperville"]
+    },
+    {
+      "id": "personality-disorders",
+      "name": "Personality Disorders",
+      "description": "A class of mental health conditions characterized by rigid and unhealthy patterns of thinking, functioning, and behaving.",
+      "recommendedTreatmentModalities": ["dialectical-behavior-therapy", "psychodynamic-therapy", "cognitive-behavioral-therapy", "schema-therapy"],
+      "availableLocations": ["addison", "woodridge"]
+    },
+    {
+      "id": "psychosis",
+      "name": "Psychosis",
+      "description": "A condition that affects the mind where there is a loss of contact with reality, characterized by changes in thinking, perception, feelings, and behavior.",
+      "recommendedTreatmentModalities": ["cognitive-behavioral-therapy", "psychopharmacology", "family-therapy", "coordinated-specialty-care"],
+      "availableLocations": ["naperville", "linden-oaks-hospital"]
+    },
+    {
+      "id": "ptsd",
+      "name": "Post-Traumatic Stress Disorder",
+      "description": "A condition that may develop after experiencing or witnessing a traumatic, terrifying, or shocking event.",
+      "recommendedTreatmentModalities": ["cognitive-processing-therapy", "prolonged-exposure-therapy", "emdr", "trauma-focused-cbt"],
+      "availableLocations": ["mokena", "naperville"]
+    },
+    {
+      "id": "relationships",
+      "name": "Relationships/Family Problems",
+      "description": "Challenges or conflicts within personal relationships, families, or marriages that cause significant distress.",
+      "recommendedTreatmentModalities": ["couples-therapy", "family-therapy", "gottman", "structural-family-therapy"],
+      "availableLocations": ["addison", "woodridge"]
+    },
+    {
+      "id": "substance-use",
+      "name": "Substance Use",
+      "description": "The use of drugs or alcohol that causes clinically significant impairment, including health problems, disability, and failure to meet major responsibilities.",
+      "recommendedTreatmentModalities": ["motivational-interviewing", "cognitive-behavioral-therapy", "medication-assisted-therapy", "group-therapy"],
+      "availableLocations": ["linden-oaks-hospital", "plainfield", "naperville", "addison", "woodridge"]
+    },
+    {
+      "id": "trauma",
+      "name": "Trauma",
+      "description": "Psychological response to a deeply distressing or disturbing event that overwhelms an individual's ability to cope.",
+      "recommendedTreatmentModalities": ["trauma-informed", "emdr", "somatic-experience", "cognitive-processing-therapy"],
+      "availableLocations": ["addison", "woodridge", "mokena", "naperville"]
+    },
+    {
+      "id": "transition-issues",
+      "name": "Transition Issues",
+      "description": "Challenges associated with important life changes, particularly for adolescents and young adults navigating the transition to adulthood.",
+      "recommendedTreatmentModalities": ["acceptance-commitment-therapy", "motivational-interviewing", "cognitive-behavioral-therapy"],
+      "availableLocations": ["st-charles"]
+    }
+  ],
+  "ageGroups": [
+    {
+      "id": "children",
+      "name": "Children",
+      "ageRange": "8-11",
+      "description": "Treatment services specifically designed for children between the ages of 8 and 11.",
+      "availableLocations": ["naperville"]
+    },
+    {
+      "id": "adolescents",
+      "name": "Adolescents",
+      "ageRange": "12-17",
+      "description": "Treatment services designed for teenagers between the ages of 12 and 17.",
+      "availableLocations": ["addison", "chicago", "deerfield", "evanston-center", "glenview", "gurnee", "hinsdale", "mokena", "naperville", "plainfield", "skokie", "st-charles", "woodridge", "evanston-hospital", "highland-park-hospital", "linden-oaks-hospital", "northwest-community-hospital", "swedish-hospital"]
+    },
+    {
+      "id": "adults",
+      "name": "Adults",
+      "ageRange": "18+",
+      "description": "Treatment services for adults age 18 and older.",
+      "availableLocations": ["addison", "chicago", "deerfield", "evanston-center", "glenview", "gurnee", "hinsdale", "mokena", "naperville", "plainfield", "skokie", "st-charles", "woodridge", "evanston-hospital", "highland-park-hospital", "linden-oaks-hospital", "northwest-community-hospital", "swedish-hospital"]
+    },
+    {
+      "id": "older-adults",
+      "name": "Older Adults",
+      "ageRange": "65+",
+      "description": "Specialized treatment services addressing the unique mental health needs of older adults.",
+      "availableLocations": ["linden-oaks-hospital"]
+    }
+  ],
+  "specializations": [
+    {
+      "id": "addictions",
+      "name": "Addictions and co-occurring disorders",
+      "description": "Specialized treatment for substance use disorders and addiction, often occurring alongside other mental health conditions.",
+      "relatedConditions": ["substance-use", "addiction", "dual-diagnosis"],
+      "availableLocations": ["addison", "woodridge", "linden-oaks-hospital", "plainfield", "naperville"]
+    },
+    {
+      "id": "adhd",
+      "name": "ADHD",
+      "description": "Treatment for attention-deficit/hyperactivity disorder and related executive functioning challenges.",
+      "relatedConditions": ["adhd"],
+      "availableLocations": ["addison", "woodridge", "naperville"]
+    },
+    {
+      "id": "anger-management",
+      "name": "Anger management",
+      "description": "Therapeutic approaches to help individuals understand and manage anger responses.",
+      "relatedConditions": ["anger-management"],
+      "availableLocations": ["addison", "woodridge"]
+    },
+    {
+      "id": "anxiety",
+      "name": "Anxiety",
+      "description": "Treatment for various anxiety disorders including generalized anxiety, social anxiety, panic disorder, and phobias.",
+      "relatedConditions": ["anxiety", "ocd"],
+      "availableLocations": ["addison", "woodridge", "naperville"]
+    },
+    {
+      "id": "behavior-issues",
+      "name": "Behavior Issues",
+      "description": "Interventions for problematic or disruptive behaviors that interfere with daily functioning.",
+      "relatedConditions": ["behavior-issues"],
+      "availableLocations": ["addison", "woodridge"]
+    },
+    {
+      "id": "depression",
+      "name": "Depression",
+      "description": "Treatment for various forms of depression, from mild to severe, including major depressive disorder.",
+      "relatedConditions": ["depression", "mood-disorders"],
+      "availableLocations": ["addison", "woodridge", "hinsdale", "mokena", "naperville", "plainfield", "st-charles", "linden-oaks-hospital"]
+    },
+    {
+      "id": "grief",
+      "name": "Grief",
+      "description": "Supportive therapy for individuals experiencing grief and bereavement.",
+      "relatedConditions": ["grief"],
+      "availableLocations": ["addison", "woodridge"]
+    },
+    {
+      "id": "life-transitions",
+      "name": "Life transitions",
+      "description": "Support for navigating major life changes such as career transitions, relocations, or relationship changes.",
+      "relatedConditions": ["life-transitions", "transition-issues"],
+      "availableLocations": ["addison", "woodridge", "st-charles"]
+    },
+    {
+      "id": "marriage-therapy",
+      "name": "Marriage/couples therapy",
+      "description": "Therapy focused on improving communication and resolving conflicts between partners.",
+      "relatedConditions": ["relationships"],
+      "availableLocations": ["addison", "woodridge"]
+    },
+    {
+      "id": "mood-disorders",
+      "name": "Mood disorders",
+      "description": "Treatment for conditions characterized by disturbances in mood, including depression and bipolar disorder.",
+      "relatedConditions": ["mood-disorders", "depression"],
+      "availableLocations": ["addison", "woodridge", "hinsdale", "mokena", "naperville", "plainfield", "linden-oaks-hospital"]
+    },
+    {
+      "id": "personality-disorders",
+      "name": "Personality disorders",
+      "description": "Specialized treatment for deeply ingrained, maladaptive patterns of behavior and inner experience.",
+      "relatedConditions": ["personality-disorders"],
+      "availableLocations": ["addison", "woodridge"]
+    },
+    {
+      "id": "relationships",
+      "name": "Relationships/family problems",
+      "description": "Therapy focused on improving family dynamics and resolving interpersonal conflicts.",
+      "relatedConditions": ["relationships"],
+      "availableLocations": ["addison", "woodridge"]
+    },
+    {
+      "id": "trauma",
+      "name": "Trauma",
+      "description": "Specialized treatment for psychological trauma, including post-traumatic stress disorder (PTSD).",
+      "relatedConditions": ["trauma", "ptsd"],
+      "availableLocations": ["addison", "woodridge", "mokena", "naperville"]
+    }
+  ],
+  "locations": [
+    {
+      "id": "addison",
+      "name": "Endeavor Health Center – Addison Behavioral Health",
+      "address": {
+        "street": "303 W. Lake St.",
+        "city": "Addison",
+        "state": "IL",
+        "zip": "60101"
+      },
+      "tagline": "Start The Conversation",
+      "ageGroups": ["adolescents", "adults"],
+      "ageRange": "12+",
+      "levelsOfCare": ["psychiatric-services", "counseling", "medication-management"],
+      "specializations": ["addictions", "adhd", "anger-management", "anxiety", "behavior-issues", "depression", "grief", "life-transitions", "marriage-therapy", "mood-disorders", "personality-disorders", "relationships", "trauma"],
+      "description": "Sometimes people need assistance achieving their personal, professional and/or relationship goals. We start with conversation to understand our clients' lives and circumstances. Our licensed and experienced counselors and social workers are trained to help clients build upon their personal strengths to develop emotion management and coping skills."
+    },
+    {
+      "id": "chicago",
+      "name": "Endeavor Health Center – Chicago Behavioral Health",
+      "address": {
+        "street": "2740 W. Foster Ave., Suite 113",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60625"
+      },
+      "ageGroups": ["adolescents", "adults"],
+      "ageRange": "12+"
+    },
+    {
+      "id": "deerfield",
+      "name": "Endeavor Health Center – Deerfield Behavioral Health",
+      "address": {
+        "street": "49 S. Waukegan Rd., Floor 2",
+        "city": "Deerfield",
+        "state": "IL",
+        "zip": "60015"
+      },
+      "ageGroups": ["adolescents", "adults"],
+      "ageRange": "12+"
+    },
+    {
+      "id": "evanston-center",
+      "name": "Endeavor Health Center – Evanston Behavioral Health",
+      "address": {
+        "street": "909 Davis St., Suite 160",
+        "city": "Evanston",
+        "state": "IL",
+        "zip": "60201"
+      },
+      "ageGroups": ["adolescents", "adults"],
+      "ageRange": "12+"
+    },
+    {
+      "id": "glenview",
+      "name": "Endeavor Health Center – Glenview Behavioral Health",
+      "address": {
+        "street": "2150 Pfingsten Rd., Suite 2280",
+        "city": "Glenview",
+        "state": "IL",
+        "zip": "60026"
+      },
+      "ageGroups": ["adolescents", "adults"],
+      "ageRange": "12+"
+    },
+    {
+      "id": "gurnee",
+      "name": "Endeavor Health Center – Gurnee Behavioral Health",
+      "address": {
+        "street": "7900 Rollins Rd., Lower Level",
+        "city": "Gurnee",
+        "state": "IL",
+        "zip": "60031"
+      },
+      "ageGroups": ["adolescents", "adults"],
+      "ageRange": "12+"
+    },
+    {
+      "id": "hinsdale",
+      "name": "Endeavor Health Center – Hinsdale Behavioral Health",
+      "address": {
+        "street": "8 Salt Creek Ln., Suite 201 & 202",
+        "city": "Hinsdale",
+        "state": "IL",
+        "zip": "60521"
+      },
+      "tagline": "Treating The Whole Person",
+      "ageGroups": ["adolescents", "adults"],
+      "ageRange": "12+",
+      "levelsOfCare": ["assessment", "php", "iop", "psychiatric-services"],
+      "specializedPrograms": ["mental-health", "creative-arts"],
+      "description": "We help our patients achieve complete recovery. We treat the whole person — physically, mentally, socially and spiritually. We treat conditions such as anxiety, depression and mood disorder for adolescents and adults. As a leading center for the treatment of substance abuse, we also offer services at each at age of the recovery process."
+    },
+    {
+      "id": "mokena",
+      "name": "Endeavor Health Center – Mokena Behavioral Health",
+      "address": {
+        "street": "9697 W. 191st St.",
+        "city": "Mokena",
+        "state": "IL",
+        "zip": "60448"
+      },
+      "tagline": "Finding Balance Again",
+      "ageGroups": ["adolescents", "adults"],
+      "ageRange": "12+",
+      "levelsOfCare": ["assessment", "php", "iop", "psychiatric-services"],
+      "specializedPrograms": ["mental-health", "trauma-ptsd"],
+      "description": "We help our patients achieve complete recovery. We treat the whole person — physically, mentally, socially and spiritually. We treat conditions such as anxiety, depression and mood disorder for adolescents and adults. As a leading center for the treatment of substance abuse, we also offer services at each at age of the recovery process."
+    },
+    {
+      "id": "naperville",
+      "name": "Endeavor Health Center – Naperville Behavioral Health",
+      "address": {
+        "street": "1335 N. Mill St.",
+        "city": "Naperville",
+        "state": "IL",
+        "zip": "60563"
+      },
+      "tagline": "Individualized Treatment",
+      "ageGroups": ["children", "adolescents", "adults"],
+      "ageRange": "8+",
+      "levelsOfCare": ["assessment", "php", "iop", "psychiatric-services"],
+      "specializedPrograms": ["mental-health", "addictions", "anxiety-ocd", "autism-mental-health", "trauma-ptsd", "tms", "psychosis"],
+      "description": "We help our patients achieve complete recovery. We treat the whole person — physically, mentally, socially and spiritually. We treat conditions such as anxiety, depression and mood disorder for adolescents and adults. As a leading center for the treatment of substance abuse, we also offer services at each at age of the recovery process."
+    },
+    {
+      "id": "plainfield",
+      "name": "Endeavor Health Center – Plainfield Behavioral Health",
+      "address": {
+        "street": "24600 W. 127th St., Building B",
+        "city": "Plainfield",
+        "state": "IL",
+        "zip": "60585"
+      },
+      "tagline": "Restoring Healthy Balance",
+      "ageGroups": ["adolescents", "adults"],
+      "ageRange": "12+",
+      "levelsOfCare": ["assessment", "php", "iop", "psychiatric-services"],
+      "specializedPrograms": ["mental-health", "addictions"],
+      "description": "We help our patients achieve complete recovery. We treat the whole person — physically, mentally, socially and spiritually. We treat conditions such as anxiety, depression and mood disorder for adolescents and adults. As a leading center for the treatment of substance abuse, we also offer services at each at age of the recovery process."
+    },
+    {
+      "id": "skokie",
+      "name": "Endeavor Health Center – Skokie Behavioral Health",
+      "address": {
+        "street": "9669 Kenton Ave., Suite 204",
+        "city": "Skokie",
+        "state": "IL",
+        "zip": "60076"
+      },
+      "ageGroups": ["adolescents", "adults"],
+      "ageRange": "12+"
+    },
+    {
+      "id": "st-charles",
+      "name": "Endeavor Health Center – St. Charles Behavioral Health",
+      "address": {
+        "street": "3805 E. Main St., Suite M",
+        "city": "St. Charles",
+        "state": "IL",
+        "zip": "60174"
+      },
+      "tagline": "Recovery Is Possible",
+      "ageGroups": ["adolescents", "adults"],
+      "ageRange": "12+",
+      "levelsOfCare": ["assessment", "php", "iop", "psychiatric-services"],
+      "specializedPrograms": ["mental-health", "emerging-adult"],
+      "description": "We help our patients achieve complete recovery. We treat the whole person — physically, mentally, socially and spiritually. We treat conditions such as anxiety, depression and mood disorder for adolescents and adults. As a leading center for the treatment of substance abuse, we also offer services at each at age of the recovery process."
+    },
+    {
+      "id": "woodridge",
+      "name": "Endeavor Health Center – Woodridge Behavioral Health",
+      "address": {
+        "street": "3329 75th St.",
+        "city": "Woodridge",
+        "state": "IL",
+        "zip": "60517"
+      },
+      "tagline": "Your Best Self is Out There",
+      "ageGroups": ["adolescents", "adults"],
+      "ageRange": "12+",
+      "levelsOfCare": ["psychiatric-services", "counseling", "medication-management"],
+      "specializations": ["addictions", "adhd", "anger-management", "anxiety", "behavior-issues", "depression", "grief", "life-transitions", "marriage-therapy", "mood-disorders", "personality-disorders", "relationships", "trauma"],
+      "description": "Sometimes people need assistance achieving their personal, professional and/or relationship goals. We start with conversation to understand our clients' lives and circumstances. Our licensed and experienced counselors and social workers are trained to help clients build upon their personal strengths to develop emotion management and coping skills."
+    },
+    {
+      "id": "evanston-hospital",
+      "name": "Endeavor Health Evanston Hospital – Behavioral Health",
+      "address": {
+        "street": "2650 Ridge Ave., 5th Floor",
+        "city": "Evanston",
+        "state": "IL",
+        "zip": "60201"
+      },
+      "ageGroups": ["adolescents", "adults"],
+      "ageRange": "12+"
+    },
+    {
+      "id": "highland-park-hospital",
+      "name": "Endeavor Health Highland Park Hospital – Behavioral Health",
+      "address": {
+        "street": "777 Park Ave. West, 2nd Floor",
+        "city": "Highland Park",
+        "state": "IL",
+        "zip": "60035"
+      },
+      "ageGroups": ["adolescents", "adults"],
+      "ageRange": "12+"
+    },
+    {
+      "id": "linden-oaks-hospital",
+      "name": "Endeavor Health Linden Oaks Hospital",
+      "address": {
+        "street": "852 S. West St.",
+        "city": "Naperville",
+        "state": "IL",
+        "zip": "60540"
+      },
+      "tagline": "Finding Balance Again",
+      "ageGroups": ["adolescents", "adults", "older-adults"],
+      "ageRange": "12+",
+      "assessmentAge": "8+",
+      "levelsOfCare": ["assessment", "inpatient"],
+      "specializedUnits": ["mental-health", "addictions", "eating-disorders", "geriatric-mental-health"],
+      "description": "We provide compassionate inpatient care for individuals ages 12 and up, offering expert treatment for anxiety, depression, mood disorders, substance use, eating disorders, and geriatric mental health needs. Getting started is easy—our dedicated team offers confidential assessments for individuals ages 8 and up, with 24/7 emergency walk-in services available to ensure immediate support. Our whole-person approach integrates physical, mental, & emotional care to support long-term well-being and recovery."
+    },
+    {
+      "id": "northwest-community-hospital",
+      "name": "Endeavor Health Northwest Community Hospital – Behavioral Health",
+      "address": {
+        "street": "901 W. Kirchhoff Rd.",
+        "city": "Arlington Heights",
+        "state": "IL",
+        "zip": "60005"
+      },
+      "ageGroups": ["adolescents", "adults"],
+      "ageRange": "12+"
+    },
+    {
+      "id": "swedish-hospital",
+      "name": "Endeavor Health Swedish Hospital – Behavioral Health",
+      "address": {
+        "street": "5140 N. California Ave., Floor A2",
+        "city": "Chicago",
+        "state": "IL",
+        "zip": "60625"
+      },
+      "ageGroups": ["adolescents", "adults"],
+      "ageRange": "12+"
+    }
+  ]
+}

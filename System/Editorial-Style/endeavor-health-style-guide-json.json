@@ -1,0 +1,1285 @@
+{
+  "title": "Endeavor Health Editorial Style Guide",
+  "version": "1.0",
+  "lastUpdated": "January 15, 2025",
+  "sections": [
+    {
+      "title": "Introduction",
+      "content": "This style guide is designed for everyone at Endeavor Health, no matter your role, and for all communication — whether it is crafting an email, creating a brochure, writing a blog article or building a presentation deck. You can use this guide to help you create branded content that consistently represents our brand and meets the needs of your audiences. We should all strive to create content that is clear, consistent and true to who we are.",
+      "subsections": []
+    },
+    {
+      "title": "Core principles",
+      "content": "Fundamental principles that guide our content creation.",
+      "subsections": [
+        {
+          "title": "Editorial Style",
+          "content": "Endeavor Health follows writing style guidelines published in The Associated Press Stylebook (AP Stylebook), but with some exceptions that are noted throughout this guide along with how to apply those choices consistently. Unless otherwise stated, you should follow the same style across all content you are creating, whether it is a patient email, a presentation deck, website content, a memo or social media posts. When in doubt, refer to AP style guidelines. Consult the AP Stylebook for terms and style rules not included here. For spellings, please check our words list first, otherwise use Merriam-Webster's Collegiate Dictionary."
+        },
+        {
+          "title": "Writing fundamentals",
+          "content": "Essential writing principles and concepts.",
+          "subsections": [
+            {
+              "title": "Inverted pyramid",
+              "content": "Readers want the most important information immediately. The inverted pyramid structure involves starting any content with the most crucial information in the lead paragraph, followed by additional details in descending order of importance in subsequent paragraphs. This concept translates well when you are writing website content, where busy readers seek specific information quickly. Web copy should follow the inverted pyramid structure, by placing the most important information first, followed by the supporting information in order of importance, with the least important at the bottom. Apply this style to each page and paragraph."
+            },
+            {
+              "title": "Clear & concise copy",
+              "content": "Use clear, direct language when writing. Be clear. Explain/define unfamiliar words and concepts the first time they are used. Use simple language.",
+              "guidelines": [
+                "Be specific and concrete, not general.",
+                "Use everyday words and concepts (e.g., use, not utilize).",
+                "Use pictures, graphics and icons, lists and tables to help simplify complex material. Avoid overly complex diagrams.",
+                "Rephrase any cliches or jargon.",
+                "Avoid superlatives, extremes or adjectives that lack substantiation (e.g., groundbreaking, always/never, extraordinary). A good test for this is to try to replace the adjective with a stat and see if it still holds true.",
+                "Be as concise as possible. Convey ideas in as few words as possible without sacrificing meaning, keeping the writing focused and to the point.",
+                "Avoid run-on sentences.",
+                "Use short words, sentences and paragraphs.",
+                "Break information into bite-sized chunks.",
+                "Limit information to what readers need to know (3-5 key points)."
+              ]
+            },
+            {
+              "title": "Point of view",
+              "content": "In writing, point of view refers to the perspective from which a piece of writing is told. Point of view takes the following forms: First-person: I, we, me, us; Second-person: you, your, yours; Third-person: he, she, it, him, her.",
+              "guidelines": [
+                "Speak directly to readers by using second-person for a user-friendly approach. Use 'you' vs. 'patients'.",
+                "When speaking about our organization, first-person is generally preferable over third-person.",
+                "Above all, remember that consistency is key. Stay in the same point of view throughout the copy."
+              ],
+              "examples": {
+                "incorrect": "Patients benefit from short wait times and our fast-track service for minor illnesses.",
+                "correct": "You'll benefit from short wait times and our fast-track service for minor illnesses.",
+                "incorrectOrganization": "The hospital consistently beats the national standard for door-to-balloon times.",
+                "correctOrganization": "We consistently beat the national standard for door-to-balloon times."
+              }
+            },
+            {
+              "title": "Principles of content",
+              "subsections": [
+                {
+                  "title": "Focus on the audience",
+                  "content": "When you write, consider your readers. In healthcare, your audience includes consumers, patients, family members and caregivers, referring physicians, donors, job seekers, volunteers, employees and others. Put yourself in the shoes of the primary audience for each section of content. Think about the audience's goals. What do they need to know? What tasks do they want to complete? What's in it for them? Avoid self-talk. Use an appropriate tone (e.g., be careful about the use of humor, as not everyone will relate)."
+                },
+                {
+                  "title": "Encourage action",
+                  "content": "Include a clear call to action and make it easy for users to take the next step. Tell readers where to learn more."
+                },
+                {
+                  "title": "Explain differentiators and user benefits",
+                  "content": "Identify services, expertise, technology or care models that separate you from the competition; communicate how they benefit the audience."
+                },
+                {
+                  "title": "Prove claims and establish credibility",
+                  "content": "Support your differentiators with data, successes, testimonials and recognition/accreditations. Where appropriate, provide context and cite your sources with dates. Use recent data (ideally within the last 1-2 years) from a credible healthcare industry source or organization."
+                },
+                {
+                  "title": "Active voice",
+                  "content": "Use active voice, not passive. With active voice, the subject performs the action in the verb. Put another way, the subject is doing something rather than having something done to it.",
+                  "examples": {
+                    "active": "The doctor prescribed the medicine.",
+                    "passive": "The medicine was prescribed by the doctor."
+                  }
+                }
+              ]
+            },
+            {
+              "title": "Reading level",
+              "content": "Our readability target is 6th grade level and below. This makes content more supportive for users of all cognitive capabilities and more easily understood by non-native English speakers. Use plain language that is culturally sensitive."
+            },
+            {
+              "title": "Content planning",
+              "content": "Guidelines for planning effective content.",
+              "keyPoints": [
+                "Purpose of the content",
+                "Benefit to the reader/viewer",
+                "Clarity and simplicity",
+                "Engagement and action",
+                "Consistency across platforms",
+                "Content integrity and ethics",
+                "Cultural sensitivity and inclusivity",
+                "Measuring success"
+              ],
+              "aims": [
+                "Introduce and consistently represent our brand.",
+                "Find ways to differentiate ourselves.",
+                "Promote growth through customer access, seamless patient experiences and retention.",
+                "Build a lifelong, meaningful relationship beyond sick care and promote personal/community wellness.",
+                "Demonstrate empathy and expertise in action.",
+                "Build trust with our audiences.",
+                "Deliver accessible and inclusive experiences for a diverse set of audiences."
+              ],
+              "questions": [
+                "Who is your audience?",
+                "What is the purpose of this piece of content?",
+                "What do you want people to learn?",
+                "Why does it matter to them?",
+                "What do you want people to do?",
+                "How will you connect them to the system?"
+              ]
+            },
+            {
+              "title": "Source material",
+              "content": "Types of source materials to use for research.",
+              "types": [
+                {
+                  "name": "Subject matter experts",
+                  "description": "Also known as SMEs ('smees'), these are individuals with deep expertise and extensive knowledge in a particular area, who can include your internal healthcare experts or operational partners. Interview them in person, by phone, video or email to learn about their services or understand their perspective."
+                },
+                {
+                  "name": "Existing web content",
+                  "description": "In addition to reviewing relevant website pages, review related videos, podcasts, patient stories and other digital assets."
+                },
+                {
+                  "name": "Recent marketing material/collateral",
+                  "description": "This includes recent (within the past two years) newsletters, press releases, brochures, annual reports and patient welcome packets. This material has already been carefully vetted and may provide content you can reference."
+                },
+                {
+                  "name": "Other healthcare websites",
+                  "description": "Review reliable and reputable healthcare websites, such as NCI, Harvard Health Publishing, Mayo Clinic, Cleveland Clinic, MD Anderson, etc. for insight. Ask a clinical expert for external websites they recommend."
+                },
+                {
+                  "name": "External sources",
+                  "description": "When sourcing materials from sources outside our current industry, it is essential that the information is both credible and relevant to our audience."
+                }
+              ]
+            },
+            {
+              "title": "Permissions & copyrighted materials",
+              "content": "Use of copyrighted materials in your content without receiving proper permission not only violates legal standards but also undermines the integrity and reputation of our organization. Respecting intellectual property rights is crucial in avoiding potential legal consequences. When you are creating content, do not use any content that Endeavor Health did not create or has permission to use, such as text (including quotes), images, audio and video. You may use outside content only after obtaining necessary permission and/or documented license, and citing the source as appropriate. You may link to outside content hosted on other websites, with the exception of our peers/local health system websites."
+            },
+            {
+              "title": "Citing sources, credits & attribution",
+              "content": "When creating content, it is important to cite your sources and provide credits and attributions to ensure transparency and recognize contributors.",
+              "generalGuidelines": [
+                "Sources should be timely: Cite information that is most recent (with the past few years) whenever possible. For example, a study from 2018 may be considered too old.",
+                "Sources should be the original: When a source (a website/publication where you read the information) cites another source (like a study), cite the primary/original source. For example, if the New York Times cites a study, don't cite the New York Times, cite the actual study."
+              ],
+              "digital": {
+                "description": "Link to the source article/website directly within the copy or cite the source in parenthesis after a claim.",
+                "examples": [
+                  "Research suggests exposure to secondhand smoke increases cancer risk among adults.",
+                  "Endeavor Health was named one of the 15 Top Hospital Systems in the country (IBM Watson, 2023)."
+                ]
+              },
+              "print": {
+                "description": "Cite the source within the copy with a superscript asterisk/number next to the text, and a footnote at the bottom of the document.",
+                "examples": [
+                  "Within the copy: Research* suggests exposure to secondhand smoke increases cancer risk among adults.",
+                  "At the bottom of the document: *The Health Consequences of Involuntary Exposure to Tobacco Smoke: A Report of the Surgeon General (National Institutes of Health, April 2023)."
+                ]
+              },
+              "titles": {
+                "description": "Books, TV shows, movies: Put the title in italics. [This is an exception to AP style which doesn't use italics in publishable materials or composition titles]. Put episodes in quotations.",
+                "example": "Endeavor Health Skokie Hospital welcomed The Bear, an award-winning television series, to its campus."
+              },
+              "credits": {
+                "description": "When appropriate, recognize the contributions of individuals or entities involved in the creation of a work by using credits. Some common uses for credits (also known as 'bylines') include articles, presentations and projects.",
+                "examples": [
+                  "Article credit: Written by Janet Hosey",
+                  "Photos credit: Photo by Jon Hillenbrand",
+                  "Illustrations credit: Illustration by Emily Nelson",
+                  "In copy: According to Dr. Smith, the disease was more complex than once thought."
+                ],
+                "guidelines": "In general, articles and photos should display bylines included for original work, but excluded for licensed materials. Include bylines for media created by external sources for which you have permission to use (e.g., 'Photo by')."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Our brand",
+      "content": "Consistent use of our name, logo and all other brand identity elements is essential to building brand equity and loyalty among our patients, team members and within our communities. The Endeavor Health Brand Guidelines serve as an enduring resource to govern the correct representation and usage of branded elements.",
+      "subsections": [
+        {
+          "title": "Brand foundation",
+          "content": "Our organization's mission, vision and values represent who we are, how we provide care and our commitment to the communities we serve. These are the principles that guide every action, every day.",
+          "subsections": [
+            {
+              "title": "Mission",
+              "content": "Our mission statement describes our purpose. It's the reason we come to work each day, and it inspires action. Help everyone in our communities be their best."
+            },
+            {
+              "title": "Vision",
+              "content": "Our vision statement describes what we aspire to in the future. It's what happens when we fulfill our mission. Safe, seamless and personal. Every person, every time."
+            },
+            {
+              "title": "Values",
+              "content": "Our values statement describes our guiding philosophy and beliefs.",
+              "values": [
+                {
+                  "name": "Act with kindness",
+                  "description": "Meet people where they are and show empathy through listening."
+                },
+                {
+                  "name": "Earn trust",
+                  "description": "Act with integrity and accountability to earn and maintain trust."
+                },
+                {
+                  "name": "Respect everyone",
+                  "description": "Champion diversity, equity, inclusion for all through mutual respect."
+                },
+                {
+                  "name": "Build relationships",
+                  "description": "Develop meaningful connections that have a positive impact on everyone who crosses our path."
+                },
+                {
+                  "name": "Pursue excellence",
+                  "description": "Seek out ways to keep learning and growing so we can deliver the best care to all, every time."
+                }
+              ]
+            },
+            {
+              "title": "Positioning",
+              "content": "Our positioning statement describes what we stand for — or, put another way, it articulates how to fill a particular need in a way that others don't or can't. Empathy and Expertise. In Action. We bring together empathy and expertise to deliver a personal healthcare experience for all.",
+              "note": "We rarely use this text verbatim; it is a critical North Star for creating content that summarizes our true differentiators based on our organization's realities."
+            }
+          ]
+        },
+        {
+          "title": "Personality, voice & tone",
+          "content": "Our personality and tone of voice make up the brand expressions within our brand framework. These expressions turn our promises defined within our brand foundations (mission, vision, values, positioning) into actions in the world.",
+          "subsections": [
+            {
+              "title": "Personality",
+              "content": "Our five personality attributes that bring our brand to life across copy and design, include:",
+              "attributes": [
+                {
+                  "name": "Ambitious",
+                  "description": "We aspire to bold heights and never settle for less.",
+                  "doThis": "We are confident and provocative.",
+                  "notThis": "We are not cocky or arrogant."
+                },
+                {
+                  "name": "Determined",
+                  "description": "We are relentless in our pursuit and driven to action.",
+                  "doThis": "We are humble, committed partners.",
+                  "notThis": "We are not rigid or inflexible."
+                },
+                {
+                  "name": "Genuine",
+                  "description": "We speak from our heart, and mean what we say.",
+                  "doThis": "We are grounded and transparent.",
+                  "notThis": "We are not inconsistent or pretentious."
+                },
+                {
+                  "name": "Welcoming",
+                  "description": "We invest in the outcomes of all we encounter.",
+                  "doThis": "We are friendly and approachable.",
+                  "notThis": "We are not folksy or condescending."
+                },
+                {
+                  "name": "Bright",
+                  "description": "We are vibrant, positive, and believe in a better tomorrow.",
+                  "doThis": "We are warm and energetic.",
+                  "notThis": "We are not clichéd or unrealistic."
+                }
+              ]
+            },
+            {
+              "title": "Voice",
+              "content": "Voice is how we communicate our brand personality and values. It is defined by word choice, punctuation, sentence structure, length and rhythm. Our voice is personal and consumer-centered; it is focused on patients' needs, not ours. We speak sincerely and stand by our words. Like our brand, our voice conveys a mix of expertise and empathy. It is welcoming, genuine, knowledgeable, conversational, sometimes edgy, and approachable. Our voice stays consistent, whether we're writing for a brochure, webpage, blog article, newsletter or a social media post."
+            },
+            {
+              "title": "Tone",
+              "content": "Tone is the attitude or mood we convey through the writing style and words we choose. The right tone can build trust in the reader.",
+              "guidelines": [
+                {
+                  "title": "Tailor tone to content & channel",
+                  "content": "Different types of content and channels call for varied tones. We should be more serious or straightforward when writing about cancer treatment or heart surgery, but lively, upbeat and even humorous when writing about therapy dogs or fitness classes. A casual tone may suit social media, while a more formal tone works best for a systemwide memo. Overall, ensure the tone is positive, hopeful and empowering."
+                },
+                {
+                  "title": "Consider your audience when shaping tone",
+                  "content": "Tone should reflect its target audience, their journey and the platform used for communication."
+                },
+                {
+                  "title": "Contextualize the tone",
+                  "content": "Adapt the tone based on the context of the communication. A new service might require excitement, while an update about a service outage may need a calm, reassuring tone."
+                },
+                {
+                  "title": "Tone that is culturally sensitive",
+                  "content": "Use language that your audience understands. Be aware of different cultural norms and avoid language or expressions that may be misunderstood or offensive."
+                }
+              ],
+              "ultimate": "Ultimately, our tone is confident, optimistic and empathetic. The tone of our writing may differ depending on what we're writing about. Our tone should always be respectful of the audience and the subject matter."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Style & usage",
+      "content": "Guidelines for consistent style usage.",
+      "subsections": [
+        {
+          "title": "Content elements & format",
+          "subsections": [
+            {
+              "title": "Abbreviations & acronyms",
+              "content": "An abbreviation is a shortened form of a word or phrase, which may include initials, but not necessarily form a pronounceable word. For example, FBI (Federal Bureau of Investigation) is an abbreviation, where each letter is pronounced separately. An acronym is a type of abbreviation formed from the initial letters of a phrase, and it is pronounced as a single word (e.g., NASA for 'National Aeronautics and Space Administration'). All acronyms are abbreviations, but not all abbreviations are acronyms. Before using an abbreviation, spell out the full name in the first reference followed by the acronym in parenthesis.",
+              "guidelines": [
+                "When in doubt, spell it out! If you wouldn't use the abbreviation when talking to a family member or friend working in another field, then spell it out.",
+                "Always write out the full name in the first instance followed by the abbreviation in parentheses.",
+                "For widely known abbreviations, you may wish to spell out the first name only once and use acronyms for every mention thereafter."
+              ],
+              "examples": [
+                "body mass index (BMI)",
+                "Your body mass index (BMI) is a number calculated from your weight and height. BMI is a good indicator of overall health."
+              ]
+            },
+            {
+              "title": "Addresses",
+              "content": "Guidelines for formatting addresses.",
+              "rules": [
+                "Use abbreviations for Ave., St., Blvd., Dr., Rd., Ln., etc. (this is an AP style exception that says to spell out certain ones). OK to omit periods in flyers/digital.",
+                "Use abbreviations for compass points before a street name. Spell out compass points if used after a street name.",
+                "If not used with a numbered address, spell out the street name.",
+                "Spell out Suite, Room and Units (don't abbreviate).",
+                "Abbreviate apartments and buildings.",
+                "Abbreviate attention lines and put in all caps.",
+                "Capitalize only the proper names of buildings.",
+                "Spell out and capitalize First through Ninth when used as street names. Use figures for 10th and above."
+              ],
+              "examples": [
+                "801 S. Washington St.",
+                "2650 Ridge Ave.",
+                "9600 Gross Point Rd.",
+                "8 Salt Creek Ln.",
+                "1804 N. Naper Blvd.",
+                "5140 N. California Ave.",
+                "800 W. Central Rd.",
+                "155 E. Brush Hill Rd.",
+                "852 S. West St.",
+                "777 Park Ave. West",
+                "Ridge Avenue",
+                "East Brush Hill Road",
+                "120 Spalding Dr., Suite 111",
+                "88 W. Countryside Parkway, Suite B",
+                "120 Spalding Dr., Room 2",
+                "120 Spalding Dr., Unit 3",
+                "120 Spalding Dr., Apt. 200",
+                "120 Spalding Dr., Bldg. 2",
+                "ATTN: Joe Smith",
+                "Empire State Building",
+                "7 Fifth Ave.",
+                "3329 75th St.",
+                "2855 W. 95th St."
+              ]
+            },
+            {
+              "title": "Capitalization",
+              "content": "There are two capitalization conventions commonly used in writing: sentence case and title case. Our style primarily uses AP style's approach, which focuses on simplicity and readability through the use of sentence case. Avoid use of ALL CAPS.",
+              "subsections": [
+                {
+                  "title": "Sentence case",
+                  "content": "Write a headline like a sentence. Capitalize only the first word and proper nouns, but keep everything else lowercase.",
+                  "examples": [
+                    "Endeavor Health launches program to improve health equity",
+                    "Discover your future career at Endeavor Health"
+                  ]
+                },
+                {
+                  "title": "Title case",
+                  "content": "Capitalize the first letter of every major word and always the first and last words. Capitalize all verbs, pronouns and proper nouns. Lowercase minor words (a, an, the); prepositions of three or fewer letters (for, of, on, up); and conjunctions of three or fewer letters (and, but, for, nor, or, so, yet) unless any of those start or end the title. Capitalize prepositions of four or more letters (above, after, down, inside, over, with) and conjunctions of four or more letters (because, while, since, though).",
+                  "examples": [
+                    "Endeavor Health's FY24 Strategic Plan & Analysis"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Dates & days",
+              "content": "Guidelines for formatting dates and days.",
+              "rules": [
+                "When a month is used with a specific date, abbreviate only Jan., Feb., Aug., Sept., Oct., Nov. and Dec. Spell the month out when using alone, or with a year alone.",
+                "Use a comma after the month, day and year.",
+                "Do not abbreviate days of the week, unless space is extremely limited."
+              ],
+              "examples": [
+                "January was a cold month. (month alone – spell out)",
+                "January 2023 was a cold month. (month with year – spell out)",
+                "Jan. 2 was the coldest day of the month. (month with day – abbreviate)",
+                "We signed the contract on Aug. 12, 2023, and celebrated with a team dinner.",
+                "The class will be held at 4 pm on Wednesday, Sept. 20.",
+                "The class will be held Monday-Friday.",
+                "Mon-Fri (OK to abbreviate when used alone, for a cleaner look)"
+              ]
+            },
+            {
+              "title": "Email addresses",
+              "content": "Format all email addresses as all lowercase letters, regardless of how emails are formatted by an organization's email system. In digital copy, email address can be clickable/linked directly to email address. In print pieces, do not use a blue hyperlink or underline to indicate an email address.",
+              "examples": [
+                "john.smith@endeavorhealth.org",
+                "jsmith@gmail.com"
+              ],
+              "incorrect": "John.Smith@EndeavorHealth.org"
+            },
+            {
+              "title": "Website addresses",
+              "content": "Format all website addresses in lowercase letters.",
+              "examples": [
+                "endeavorhealth.org",
+                "Visit us at endeavorhealth.org",
+                "Visit hhs.gov"
+              ],
+              "incorrect": [
+                "EndeavorHealth.org",
+                "Visit us at EndeavorHealth.org"
+              ]
+            },
+            {
+              "title": "Fiscal years",
+              "content": "Fiscal years should be abbreviated using \"FY\" followed by the year in full numerals.",
+              "examples": [
+                "FY 2024",
+                "FY24",
+                "Fiscal 2023-24",
+                "FY 2023-24",
+                "FY23-24"
+              ]
+            },
+            {
+              "title": "Headlines & headers",
+              "content": "For headings and subheads (H1, H2, etc.), use sentence case (only capitalize the first word). It's more conversational than title case (in which each word is capitalized). The exception is proper nouns/names and formal names of departments, programs, etc. Do not include punctuation at the end of a headline. Exception: If the headline includes two sentences, punctuation is needed.",
+              "examples": {
+                "correct": "Expert heart care close to home",
+                "incorrect": "Expert Heart Care Close to Home",
+                "twoSentences": "Expect expert heart care. We're close to home."
+              },
+              "tips": [
+                "Match the headline's tone to the story's tone.",
+                "Include keywords that are central to the story's content.",
+                "Use a verb in the headline as much as possible.",
+                "Capitalize only the first word and proper nouns.",
+                "The first word after a colon is always uppercase.",
+                "Always capitalize the first letter.",
+                "Use numerals (including numbers under 10), do not spell out numbers except in casual uses or formal names. This is an AP style exception for readability.",
+                "Spell out ordinals under 10: first, ninth, etc.",
+                "Make every word and every character count."
+              ]
+            },
+            {
+              "title": "Lists & bullets",
+              "content": "Guidelines for creating lists.",
+              "rules": [
+                "Capitalize the first word only or proper nouns after the bullet.",
+                "Do not use a period at the end of a single word or single phrase.",
+                "Use periods, not hyphens or dashes, to separate ideas in a bulleted list.",
+                "Start with the same part of speech for each item (e.g., a verb).",
+                "Use the same voice (active preferred) for each item.",
+                "Use the same verb tense for each item.",
+                "Use the same sentence type (statement, question, exclamation) for each item.",
+                "Introduce the list with a short phrase or sentence (e.g. \"Common side effects include:\")",
+                "Use periods at the end of each sentence only if it is a complete phrase. OK to omit periods for design purposes and for consistency if some items in the bulleted list aren't complete phrases."
+              ],
+              "examples": [
+                "Scalpel",
+                "Gauze",
+                "Bandages",
+                "• Medications. Take medications as directed.",
+                "How to prepare for your appointment:",
+                "• Bring a list of your current medications.",
+                "• Arrive 15 minutes early to complete any necessary paperwork.",
+                "• Bring your insurance card and a photo ID."
+              ]
+            },
+            {
+              "title": "Links",
+              "content": "As a general rule, create links within body copy and avoid linking headers and subheads. Use links selectively; too many clutter the page and make it difficult to read. Link text should be brief but more than one word, descriptive, action-oriented and meaningful, so that users know what to expect when they open a link. Avoid the use of \"click here.\" Link text should be sentence case. Link color and style will be determined in the design process. The period at the end of the sentence should not be a part of the link.",
+              "examples": [
+                "Get driving directions",
+                "Take a free heart assessment",
+                "Find a stroke support group",
+                "For more details, read our Terms of Use."
+              ]
+            },
+            {
+              "title": "External links",
+              "content": "In web copy, an external link takes a visitor to another website, unlike an internal link, which takes them to another page within the current website. Avoid setting hyperlinks to open in new tabs or windows unless users need to view the hyperlinked content simultaneously to complete a task. Opening links in new tabs can cause confusion, particularly on mobile, as it disrupts the Back button and adds clutter. New windows are best suited for external files (e.g., PDFs) or pages where users need side-by-side content. When possible, indicate external links with an icon and/or alert users when a link opens in a new tab to maintain clarity and accessibility. In print pieces, such as mailed patient letters, explain what the external website is before the URL.",
+              "example": "To learn more, visit the Centers for Disease Control and Prevention's website at cdc.org."
+            },
+            {
+              "title": "Calls to action (CTAs)",
+              "content": "Guidelines for creating effective calls to action.",
+              "guidelines": [
+                "CTAs should be action-oriented and to the point.",
+                "The CTA copy should align with the copy on the page.",
+                "The benefit of clicking on the CTA should be very clear.",
+                "Tap into the element of urgency, using words like \"now\" or \"today,\" when appropriate, such as registering for a class (just don't be too salesy!).",
+                "The CTA should stand out and look clickable (e.g., bold the text link, use a different color and underline it, or make it a button).",
+                "A/B test multiple CTAs to find the best performer."
+              ],
+              "example": "Schedule an appointment today."
+            },
+            {
+              "title": "URLs",
+              "content": "Guidelines for formatting URLs.",
+              "rules": [
+                "Make URLs descriptive, short, keyword-rich, and avoid non-letter characters (target 6 words or less).",
+                "Omit the word \"and\" in URLs.",
+                "Don't join words together in URLs. Separate words using hyphens (-) instead of underscores (_).",
+                "In most cases, use lowercase for URLs.",
+                "Beginning of URL: Don't include https:// or www",
+                "End of URL: Omit the trailing slash /"
+              ],
+              "example": "Visit endeavorhealth.org for more information."
+            }
+          ]
+        },
+        {
+          "title": "Punctuation & symbols",
+          "subsections": [
+            {
+              "title": "Ampersands ( & )",
+              "content": "Don't use ampersands (&) in copy, unless the ampersand itself is a part of the legal name (e.g., Johnson & Johnson). Please spell out the word \"and\" in most cases. OK to use \"&\" instead of \"and\" in headlines and navigation/CTAs, just not in body copy."
+            },
+            {
+              "title": "Apostrophes ( ' )",
+              "content": "Do not use an apostrophe with plural capital letters and numbers when they are used as nouns. Use an apostrophe when needed for clarification. For plural acronyms, add an \"s\" at the end.",
+              "examples": [
+                "This is a room full of RNs in the 1980s.",
+                "The last three digits are 0's.",
+                "Endeavor Health uses several content management systems (CMSs)."
+              ]
+            },
+            {
+              "title": "Colons ( : )",
+              "content": "Do not place a colon after an incomplete sentence. Only place a colon where you could logically place a period. This applies even when using a colon to introduce a list. Capitalize the first word after a colon in article headlines.",
+              "examples": [
+                "The doctor requested three items: a scalpel, gauze and gloves.",
+                "Grocery store tips: Decoding nutrition labels"
+              ]
+            },
+            {
+              "title": "Commas ( , )",
+              "subsections": [
+                {
+                  "title": "Commas in a series",
+                  "content": "Don't use a comma before a conjunction (\"and\" or \"or\") in a simple series. For more complex phrases, use commas after each item in the series to avoid confusion. If it's confusing without it, include the comma!",
+                  "example": "Healthy blood vessels and blood flow are essential to maintaining the health of your heart, brain and body."
+                },
+                {
+                  "title": "Sentence clauses",
+                  "content": "Use a comma before the coordinating conjunction when a sentence contains two independent clauses (a sentence with a subject and verb that could stand alone). Do not use a comma when each clause has the same subject.",
+                  "examples": {
+                    "independentClauses": "I wrote the text, and she edited the pages for accuracy.",
+                    "sharedSubject": "I created the content and did my own editing."
+                  }
+                },
+                {
+                  "title": "Introductory phrases and clauses",
+                  "content": "Do not use a comma after a short introductory phrase (around three words). Use a comma after longer introductory phrases for clarity.",
+                  "examples": {
+                    "shortIntroductions": "In July we take our family vacation.",
+                    "longerIntroductions": "When we're traveling long distances, we always rent audiobooks."
+                  }
+                }
+              ]
+            },
+            {
+              "title": "Dashes & hyphens",
+              "subsections": [
+                {
+                  "title": "Em dash ( — )",
+                  "content": "Use the longer em dash to denote an abrupt change in thought in a sentence or an emphatic pause. Also use as one option to set off a series within a phrase; before attribution to an author or composer in some formats; after datelines; and to start lists. AP style calls for a space on both sides of a dash in all uses except the start of sports agate summaries.",
+                  "examples": [
+                    "We never stop moving your health — or our technology, innovation and creativity — forward.",
+                    "We're highlighting our advanced technology, convenient care and integrative medicine — all things that set Endeavor Health apart."
+                  ]
+                },
+                {
+                  "title": "En dash ( – )",
+                  "content": "Use the shorter en dash to express ranges, to show a connection or conflict between two linked terms, or to clarify more complex compound words. AP does not generally use en dashes."
+                },
+                {
+                  "title": "Hyphens ( - )",
+                  "content": "AP uses hyphens as joiners, such as for compound modifiers: small-business owner. AP also uses hyphens for ranges, such as Jan. 1-4. There should be no spaces surrounding a hyphen. When a compound modifier precedes a noun, use a hyphen to link the words. If it occurs after a noun, don't hyphenate it. In some cases, keep hyphen to avoid confusion. With numerals, use a hyphen to separate figures in odds and ratios.",
+                  "examples": [
+                    "She has a full-time job.",
+                    "Estimate your out-of-pocket expenses.",
+                    "Use our hospital-based services for non-life-threatening illnesses and injuries.",
+                    "The nurse-patient relationship is central to effective care.",
+                    "She works full time.",
+                    "She is soft-spoken.",
+                    "He is serving a 10- to 20-year term.",
+                    "The clinic is open Monday-Friday, 9 am-5 pm.",
+                    "The internship is for the 15-18 age group."
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Ellipsis ( ... )",
+              "content": "Treat as a three-letter word, constructed with three periods and a space before and after.",
+              "example": "I was thinking we could go to the clinic later ... or maybe tomorrow."
+            },
+            {
+              "title": "Exclamation points ( ! )",
+              "content": "Use exclamation points sparingly, and never more than one at a time."
+            },
+            {
+              "title": "Quotation marks ( \" )",
+              "content": "Use \"said\" instead of \"says\" when quoting someone. Place periods and commas within quotation marks. Place dashes, semicolons, question marks, and exclamation points within quotation marks when they apply to the quoted material. When dashes, semicolons, question marks, and exclamation points apply to the whole sentence, they go outside the quotation marks.",
+              "examples": [
+                "\"We practice patient-centered care,\" said Dr. Smith.",
+                "The team stated, \"We are ready for the conference.\"",
+                "\"The conference will be held in Suite C,\" said the meeting coordinator.",
+                "She asked, \"Who is your primary care physician?\"",
+                "Do you agree with the saying, \"An apple a day keeps the doctor away\"?"
+              ]
+            },
+            {
+              "title": "Semicolons ( ; )",
+              "content": "Use a semicolon only between independent clauses that could stand alone as two separate sentences. Use a semicolon between items in a series if the items themselves contain commas and to clarify a series when the items in the series are long.",
+              "examples": [
+                "He walked to the office; she took the bus.",
+                "The team consists of Mary, social worker; Jack, occupational therapist; and Kate, physical therapist."
+              ]
+            },
+            {
+              "title": "Solidus or forward slashes ( / )",
+              "content": "Use a forward slash to indicate that two or more things have a close relationship or are in opposition to each other. Use the forward slash to state an alternative. No space needed on either side of the slash. Exception: can include a space in headlines (for readability).",
+              "examples": [
+                "Visit your local Walk-In Clinic/Immediate Care Center today.",
+                "As payment, we accept cash and/or credit cards."
+              ]
+            },
+            {
+              "title": "Spacing after punctuation",
+              "content": "Use one space in between sentences! Use one space after periods, commas, semicolons, colons, exclamation points, question marks and quotation marks."
+            },
+            {
+              "title": "Tildes ( ~ )",
+              "content": "Use the word \"about\" in copy, not the ~ symbol. Only use a tilde (to indicate approximation) for design purposes if it looks cleaner.",
+              "examples": [
+                "The project will take about 3 months to complete.",
+                "~3 months"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Words, terminology & abbreviations",
+          "subsections": [
+            {
+              "title": "Health system",
+              "content": "Guidelines for referring to our health system.",
+              "rules": [
+                "Our health system name is simply \"Endeavor Heath.\" Do not refer to our health system as \"the Endeavor Health.\"",
+                "After the first reference, it is OK to use \"our health system\" if it makes sense.",
+                "Do not use \"EH\" when referring to Endeavor Health or any of our hospitals.",
+                "Do not use \"Endeavor\" alone when referring to our health system. Always use the full name Endeavor Health.",
+                "When not referring to our health system, lowercase \"endeavor.\" Example in tagline below: Your best health is our endeavor.",
+                "Do not use North and South regions in external copy. OK to use internally until further notice. When used internally, North and South are capitalized, and region is lowercase.",
+                "Do not use former health system names (NorthShore University HealthSystem or Edward-Elmhurst Health). If you must use them, include Endeavor Health after.",
+                "Use \"NorthShore hospitals\" only for research/clinical trials, leader bios/stories, including leadership roles where NorthShore hospitals was or is part of their title, or other health system historical copy."
+              ],
+              "examples": [
+                "Your best health is our endeavor.",
+                "NorthShore University HealthSystem, now Endeavor Health",
+                "Edward-Elmhurst Health, now Endeavor Health",
+                "Endeavor Health's NorthShore hospitals",
+                "NorthShore hospitals, now Endeavor Health"
+              ]
+            },
+            {
+              "title": "Hospitals",
+              "content": "Hospitals are listed using this format: Endeavor Health + [hospital name]. For body text, spell out the hospital on first reference (Endeavor Health Edward Hospital) and use the hospital's name alone for subsequent references (Edward Hospital). Use lowercase \"hospital\" in second and subsequent references if not using formal name.",
+              "example": "Endeavor Health Swedish Hospital has served the diverse communities of Chicago's North Side for more than 130 years. Located in one of the most diverse zip codes in America, multiculturalism is a key element woven across the Swedish Hospital fabric. It is also an award-winning hospital that provides a full range of comprehensive health and wellness services.",
+              "hospitals": [
+                {
+                  "name": "Endeavor Health Edward Hospital",
+                  "subsequentReference": "Edward Hospital",
+                  "abbreviation": "EDH"
+                },
+                {
+                  "name": "Endeavor Health Elmhurst Hospital",
+                  "subsequentReference": "Elmhurst Hospital",
+                  "abbreviation": "ELH"
+                },
+                {
+                  "name": "Endeavor Health Evanston Hospital",
+                  "subsequentReference": "Evanston Hospital",
+                  "abbreviation": "EVH"
+                },
+                {
+                  "name": "Endeavor Health Glenbrook Hospital",
+                  "subsequentReference": "Glenbrook Hospital",
+                  "abbreviation": "GBH"
+                },
+                {
+                  "name": "Endeavor Health Highland Park Hospital",
+                  "subsequentReference": "Highland Park Hospital",
+                  "abbreviation": "HPH"
+                },
+                {
+                  "name": "Endeavor Health Linden Oaks Hospital",
+                  "subsequentReference": "Linden Oaks Hospital",
+                  "abbreviation": "LOH"
+                },
+                {
+                  "name": "Endeavor Health Northwest Community Hospital",
+                  "subsequentReference": "Northwest Community Hospital",
+                  "abbreviation": "NCH"
+                },
+                {
+                  "name": "Endeavor Health Skokie Hospital",
+                  "subsequentReference": "Skokie Hospital",
+                  "abbreviation": "SKH"
+                },
+                {
+                  "name": "Endeavor Health Swedish Hospital",
+                  "subsequentReference": "Swedish Hospital",
+                  "abbreviation": "SWH"
+                }
+              ],
+              "note": "Abbreviations are for internal use only."
+            },
+            {
+              "title": "Clinician names & titles",
+              "content": "Guidelines for formatting clinician names and titles.",
+              "subsections": [
+                {
+                  "title": "Academic degrees/credentials",
+                  "content": "Use a comma after a name and after a title or degree. Do not use periods in credentials (e.g., MD, PhD, RN, MBA) for a cleaner look (this is an exception to AP style). Use either \"Dr.\" before the name OR credentials after the name, NOT BOTH.",
+                  "example": "Jennifer Cross, MD, will join our staff in May."
+                },
+                {
+                  "title": "First reference/subsequent references",
+                  "content": "On first reference, use the individual's name followed by their credentials. On subsequent references: If the individual is a doctor, use Dr. [last name]. If the individual is not a doctor, use [last name].",
+                  "examples": [
+                    "We recently heard from Cash Casey, MD, cardiologist at Endeavor Health. Dr. Casey shared his insights about heart disease risks.",
+                    "We recently heard from Ann Smith, RN, registered nurse at Endeavor Health. Smith shared her insights about wound care after surgery."
+                  ]
+                },
+                {
+                  "title": "Use of the word doctor",
+                  "content": "Should only be used for MD, DO, DNP, PhD and PsyD clinicians. Either include \"Dr.\" before the name or credentials like \"MD\" after the name. Do not use both (it is redundant).",
+                  "examples": {
+                    "correct1": "Dr. Cash Casey",
+                    "correct2": "Cash Casey, MD",
+                    "incorrect": "Dr. Cash Casey, MD"
+                  }
+                },
+                {
+                  "title": "Doctor/physician/provider",
+                  "content": "Use \"clinician\" for all clinicians (doctors, nurses, etc.). Also OK to use \"provider.\""
+                },
+                {
+                  "title": "Doctor titles",
+                  "content": "Use system name rather than group name in first reference.",
+                  "example": "John Smith, MD, a bariatric surgeon with Endeavor Health Medical Group."
+                },
+                {
+                  "title": "Provider affiliations",
+                  "content": "Definitions of provider relationships with our health system.",
+                  "types": [
+                    {
+                      "name": "Employed provider",
+                      "definition": "Healthcare providers who are directly employed by Endeavor Health."
+                    },
+                    {
+                      "name": "Affiliated provider",
+                      "definition": "Providers or a practice of providers who have a documented affiliation under a professional service agreement, joint venture, management service agreements or other arrangement with Endeavor Health or an Endeavor Health affiliated entity beyond staff privileges."
+                    },
+                    {
+                      "name": "Independent provider",
+                      "definition": "Providers who operate their own practice or clinic, or providers who are part of an independent practice, without direct employment or formal affiliations with the health system, though they may refer patients to or collaborate with health system facilities."
+                    }
+                  ]
+                },
+                {
+                  "title": "Titles of independent physicians on our medical staff",
+                  "content": "Omit physician's practice name if not part of Endeavor Health.",
+                  "examples": [
+                    "Cash Casey, MD, an independent cardiac electrophysiologist and a member of Endeavor Health Elmhurst Hospital's medical staff, was ...",
+                    "Mark Goodwin, MD, System Medical Director of Endeavor Health Cardiovascular Institute and independent interventional cardiologist on the medical staffs of Endeavor Health Edward Hospital and Endeavor Health Elmhurst Hospital."
+                  ]
+                },
+                {
+                  "title": "Doctors with faculty appointments",
+                  "content": "Not all physicians have it, but list appointments if they exist",
+                  "examples": [
+                    "Dr. Silver holds an academic appointment at the University of Chicago Pritzker School of Medicine.",
+                    "Dr. Silver holds an academic title at the Pritzker School of Medicine."
+                  ]
+                },
+                {
+                  "title": "Foundation members",
+                  "content": "Confirm with the foundation(s) if the physician is an Endowed Clinical Chair and, if so, list as part of the title."
+                },
+                {
+                  "title": "References to doctors",
+                  "content": "First reference and captions use: Firstname Lastname, MD. Second reference use: Dr. Lastname",
+                  "examples": [
+                    "Mark Talamonti, MD",
+                    "Dr. Talamonti"
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Other terms",
+              "content": "Definitions and usage guidelines for various terms.",
+              "terms": [
+                {
+                  "term": "electronic medical record (EMR)",
+                  "definition": "Is usually formatted this way on first reference, when specifically referring to the system."
+                },
+                {
+                  "term": "Emergency services; emergency department",
+                  "usage": "Use services at the system level; department at the hospital level.",
+                  "notes": [
+                    "Proper name for Plainfield ER: Endeavor Health Edward Emergency Center – Plainfield.",
+                    "Do not group Plainfield as an Emergency Department.",
+                    "Use \"freestanding emergency center in Plainfield\" in references."
+                  ]
+                },
+                {
+                  "term": "email",
+                  "definition": "One word, no hyphen"
+                },
+                {
+                  "term": "Galter Life Center",
+                  "definition": "Two words for Life and Center"
+                },
+                {
+                  "term": "health system",
+                  "definition": "Two words"
+                },
+                {
+                  "term": "healthcare",
+                  "definition": "One word"
+                },
+                {
+                  "term": "internet, intranet",
+                  "definition": "Do not capitalize."
+                },
+                {
+                  "term": "lifesaving",
+                  "definition": "One word"
+                },
+                {
+                  "term": "log in and login",
+                  "usage": "Use \"log in\" when describing the action; use \"login\" when referring to the thing (e.g. screen, process or app). Try to avoid using log into, sign in and sign out.",
+                  "examples": [
+                    "Verb: Log in, log out",
+                    "Verb phrase: Please log in to your account to access your medical records.",
+                    "Noun: Enter your login and password to proceed.",
+                    "Adjective: Reset your login credentials if you've forgotten them."
+                  ]
+                },
+                {
+                  "term": "online",
+                  "definition": "One word no hyphen"
+                },
+                {
+                  "term": "orthopaedic",
+                  "definition": "Use \"ae\" in the spelling (NOT orthopedic)"
+                },
+                {
+                  "term": "patient portal",
+                  "reference": "See Patient portals section."
+                },
+                {
+                  "term": "portal",
+                  "usage": "Do not use the word \"portal\" without a descriptor, such as \"patient portal.\" For the employee intranet, use \"myEndeavor\" or \"intranet.\" Do not refer to the intranet as a \"portal,\" as our health system has numerous portals."
+                },
+                {
+                  "term": "SharePoint",
+                  "definition": "One word. Capitalize the \"s\" and \"p\" for the Microsoft presentation application."
+                },
+                {
+                  "term": "systemwide",
+                  "definition": "One word"
+                },
+                {
+                  "term": "third party",
+                  "definition": "Noun used to refer to an independent entity, do not use numerical ordinal abbreviation 3rd party.",
+                  "example": "The contract requires a third party to verify results."
+                },
+                {
+                  "term": "third-party",
+                  "definition": "A hyphenated adjective before a noun to describe something related to or involving an outside party.",
+                  "example": "They hired a third-party vendor for the project."
+                },
+                {
+                  "term": "website",
+                  "definition": "One word, lowercase",
+                  "examples": [
+                    "health system external website: endeavorhealth.org",
+                    "health system intranet: Use \"intranet\" or \"myEndeavor\""
+                  ]
+                },
+                {
+                  "term": "Webex",
+                  "definition": "One word, capital \"W\""
+                },
+                {
+                  "term": "wellbeing",
+                  "definition": "One word without a hyphen"
+                },
+                {
+                  "term": "wholly-owned subsidiary",
+                  "definition": "Hyphenated"
+                }
+              ]
+            },
+            {
+              "title": "Terms to avoid",
+              "content": "Avoid any terminology that uses superlatives (e.g., best, most, greatest) or claims/guarantees that can't be backed up.",
+              "avoidTerms": [
+                "free",
+                "partnership (ensure it is a true partnership)",
+                "most effective",
+                "avoid using any names of competitors",
+                "guarantees of success",
+                "historic",
+                "groundbreaking (particularly when referencing a clinical trial)",
+                "revolutionary (particularly when referencing a clinical trial)",
+                "first-of-its-kind"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Digital content style",
+      "content": "Guidelines specific to digital content.",
+      "subsections": [
+        {
+          "title": "Writing style & elements",
+          "subsections": [
+            {
+              "title": "Write for readers who scan",
+              "content": "How do people read on the web? In short — they don't, they scan. Research done with eye tracking studies shows that users engage with a web page in an F-shaped pattern. To make it easy for readers to skim:",
+              "tips": [
+                "Write, cut in half, cut in half again",
+                "Use headers and subheads, bulleted lists, accordions, listicles and tabs",
+                "Chunk content into paragraphs",
+                "Break up more than three paragraphs of text with subheads",
+                "Shorter sentences are usually preferred",
+                "Shorter paragraphs work better on the web for readability"
+              ]
+            },
+            {
+              "title": "Headers & subheads",
+              "content": "Headers (H1s) and subheads (H2s and H3s) are the most viewed content on the page. Readers, search engines and screen readers (technology for visually impaired visitors) scan these headlines for clues about page content. Headers and subheads should provide a short, meaningful introduction to the content that follows, with the following key elements:",
+              "elements": [
+                "Active voice",
+                "Concise, simple statements",
+                "Relevant keywords",
+                "Plain, straightforward language"
+              ]
+            },
+            {
+              "title": "Header hierarchy",
+              "content": "Headlines should follow a sequential pattern. This hierarchy, called \"nesting,\" communicates important information to search engines about page content and emphasis. Nesting means that all pages start with an H1; each page only has one H1; H1s are followed by H2s (rather than skipping a subhead and going straight to an H3). Don't go deeper than four levels with the header hierarchy."
+            },
+            {
+              "title": "Paragraphs",
+              "content": "Readers prefer small, easily digestible blocks of text, so each paragraph should only convey one concept or idea. Limit paragraphs to approximately three sentences totaling 60-70 words."
+            },
+            {
+              "title": "URLs",
+              "content": "Guidelines for creating effective URLs.",
+              "guidelines": [
+                "Make URLs descriptive, short, keyword-rich, and avoid non-letter characters (target 6 words or less).",
+                "Omit the word \"and\" in URLs.",
+                "Don't join words together in URLs. Separate words using hyphens (-) instead of underscores (_).",
+                "In most cases, use lowercase for URLs.",
+                "Beginning of URL: Don't include https:// or www",
+                "End of URL: Omit the trailing slash /"
+              ],
+              "examples": [
+                "Visit endeavorhealth.org for more information."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Search engine optimization (SEO)",
+          "content": "Search engines should be considered an additional audience for your content. Search engines follow links and examine content for purposes of returning meaningful results when someone performs a search. Writing optimized content helps search engines find and index your content, which benefits both you and your users.",
+          "subsections": [
+            {
+              "title": "General SEO best practices",
+              "guidelines": [
+                "Follow web writing best practices (e.g., nesting header tags, writing descriptive link text).",
+                "Always add text to a page. Graphical text, screenshots and embedded .pdf documents aren't searchable web content.",
+                "Alt text: Use the page's target keyword or a secondary keyword if appropriate in the alt text. Add descriptive \"alt text\" to images and descriptive text to video and flash content.",
+                "Optimize titles, text, headlines and metadata with keywords. Also use semantically related terms in the copy (not just your MAIN keyword).",
+                "Eliminate duplicate content."
+              ]
+            },
+            {
+              "title": "Meta titles",
+              "content": "Meta titles are sometimes referred to as browser titles or HTML title tags. Each meta title should be a clear and concise description of the page's content.",
+              "guidelines": [
+                "Keep titles short, yet clear. Search engines and social media sites display a limited amount of characters — generally no more than 65 characters (including spaces) for search engines. After a certain length, the results cut off the title tag with an ellipsis (...).",
+                "Place important keywords at the start of the title tag.",
+                "Include localization (city/state for target market area).",
+                "Create unique meta titles for each page of content."
+              ]
+            },
+            {
+              "title": "Meta descriptions",
+              "content": "A meta description is a short description of a page's content. It displays as text beneath a link on the search engine results page.",
+              "guidelines": [
+                "Use 120 characters (max 160): This can change, and generally on mobile, even less copy will appear, so consider meta descriptions with slightly fewer characters.",
+                "Include a hook or a reason to click to get more information, services or expertise. If they think they've found everything they need in the search results, there's no reason to click. Think about how we can set ourselves apart from other similar search results.",
+                "Begin meta description with the most important keywords.",
+                "Create concise, yet conversational, meta descriptions. Convince searchers that you have the information they're searching for.",
+                "Search engines may cut truncate descriptions to 155-160 characters (including spaces), so trim unnecessary words.",
+                "Create unique meta descriptions for each page of content."
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Articles & patient stories",
+          "subsections": [
+            {
+              "title": "Best practices",
+              "guidelines": [
+                "~500-800 words (some can go a bit shorter or longer). Shorter posts won't be optimized for SEO. Try to aim for 1200 words when possible.",
+                "Use active voice",
+                "Second person point of view",
+                "Be concise — have a focus for the blog and stick to it",
+                "Remember your audience",
+                "Limit paragraphs to no more than 3 sentences",
+                "One idea per paragraph",
+                "Break up content with bullets or numbered lists when possible",
+                "Break up content with images",
+                "Make it conversational — avoid jargon",
+                "Make it relevant, interesting and informative, not salesy",
+                "The voice and tone should match our brand",
+                "Include a call to action (CTA) for what the reader can do next (learn more, take a HealthAware, join us for an event, etc.). Try to keep CTA in the top third of the page. Do not wait until the end of the story to suggest that a reader engage.",
+                "Include tags on articles to help readers find posts on specific topics easily and improve the article's visibility in search engine results."
+              ]
+            },
+            {
+              "title": "Article author & byline",
+              "guidelines": [
+                "Aim for every content hub article author to have their own bio that includes the author's background/credentials (unless there's a brand, customer, legal, compliance, etc. reason not to).",
+                "Aim for including our clinical experts/doctors as authors as much as possible (we'd ghostwrite the article).",
+                "Bylines should use a real person's name. Non-clinicians should have an accompanying bio that illustrates they are experienced health journalists.",
+                "If writer is unknown, do not include an author (avoid using Endeavor Health as author).",
+                "For freelance writers and interns, their byline would read something like: \"by Ann Smith.\" And their bio would read something like: \"Ann Smith is a freelance journalist who covers wellness, nutrition and lifestyle topics.\""
+              ]
+            },
+            {
+              "title": "Patient stories",
+              "content": "All patient stories should be reviewed and approved by the patient, with a signed patient consent form on file before the patient is interviewed or photographed. Teams responsible for managing web content should be established for reviewing patient stories that are more than 2-3 years old, by either confirming the patient's current health status or sunsetting the story."
+            },
+            {
+              "title": "Press releases",
+              "content": "All press releases use AP Style and should be developed, approved and distributed by the External Communications team. Press releases should be drafted in inverted pyramid style, include at least one quote from the most senior/relevant SMEs and generally be limited to less than two pages. The press release may link to supplementary materials. Quotes should add something to the press release (e.g., new perspective, information, etc.) that is unique to the individual quoted. All press releases should include a media contact (name/email/phone) and the Endeavor Health boilerplate images and photos."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Accessibility & inclusion",
+      "content": "Our audience represents a wide range of backgrounds and abilities. Content must be accessible and inclusive in order for readers to create meaningful connections to it.",
+      "subsections": [
+        {
+          "title": "Accessible content",
+          "content": "Writing accessible content helps your audience feel understood and supported. You can improve content accessibility with a global and mobile first approach.",
+          "guidelines": [
+            "Have a global-first mindset, assuming every person on earth will consume your content.",
+            "Provide alternatives for non-text content.",
+            "Content should be viewable using a screen reader, keyboard navigation, or Braille interface.",
+            "Make content easy to hear and see.",
+            "Allow users to adjust timing on videos.",
+            "Avoid content that blinks or flashes a lot.",
+            "Solicit and accommodate user feedback."
+          ],
+          "mobileFirst": {
+            "title": "Mobile-first checklist",
+            "guidelines": [
+              "Keep it short and concise. On a smaller screen, text looks longer and more overwhelming.",
+              "Use progressive disclosure. This design pattern simplifies and emphasizes the most important information. In portrait mode, content elements need to stack vertically.",
+              "Pair words with icons for scannability.",
+              "Put important info and CTAs above the fold.",
+              "Leave extra room for translation. This will make your text grow by about 40%."
+            ]
+          },
+          "multimedia": {
+            "title": "Modifying multimedia",
+            "audio": {
+              "title": "Audio content",
+              "guideline": "Include a transcript with timestamps."
+            },
+            "video": {
+              "title": "Video content",
+              "guidelines": [
+                "Captions are required (exception: content with no spoken audio, like background music).",
+                "Captions must be at least 95% accurate; don't use an autogenerated caption.",
+                "Include a transcript with timestamps."
+              ]
+            },
+            "pdfs": {
+              "title": "PDFs",
+              "guidelines": [
+                "Process all text with optical character recognition (OCR) so it can be read by screen readers.",
+                "Set the document reading order so that screen readers read the pages correctly."
+              ]
+            },
+            "tables": {
+              "title": "Tables",
+              "guidelines": [
+                "Specify titles with a caption tag inside the opening table tag.",
+                "Avoid spanned cells.",
+                "Use proportional sizing rather than absolute (% rather than a pixel dimension)."
+              ]
+            },
+            "colors": {
+              "title": "Color contrast",
+              "guidelines": [
+                "Ensure sufficient contrast between text and background.",
+                "Do not use colors to convey meaning or information.",
+                "Use patterns or textures to differentiate information on graphs or diagrams."
+              ]
+            },
+            "altText": {
+              "title": "Alt text for visual impairments",
+              "content": "Alternative text (\"alt text\") is a written description of an online image or video that gives screen readers content to read aloud for users with visual impairments. This also helps search engines understand image content, even if the image is unable to load, ultimately boosting SEO.",
+              "guidelines": [
+                "Be concise. Use concise, specific descriptions (under 100 characters) without redundant words like \"image of.\"",
+                "Be descriptive and specific. Clearly describe the content and purpose of the image. Image alt text should provide context to those who cannot see it (e.g., \"A woman working on a laptop in a bright office space.\"). For an image of a healthcare professional, use \"Dr. Jane Doe consulting with a patient\" rather than just \"doctor.\"",
+                "Functionality explained. If an image is also a link or button, describe the action with a visual, e.g., Book an appointment with our specialists now »",
+                "Avoid keyword stuffing. Focus on clarity over SEO; unnecessary keywords can harm accessibility.",
+                "Skip decorative images. Use null alt text (alt=\"\") for decorative images, so screen readers skip them.",
+                "Avoid redundancy. Skip phrases like \"image of.\" Just describe what the image is about.",
+                "Contextual alt text. Alt text should be aligned with the image on the page, e.g., \"Graph showing diabetes type 2 prevalence in adults over 60.\""
+              ],
+              "examples": {
+                "correct": "A physical therapist assisting a patient walking in rehab",
+                "incorrectTooShort": "Two people walking",
+                "incorrectTooLong": "A female physical therapist in blue scrubs helping a male patient regain his strength by walking during rehabilitation in an open room during the day."
+              }
+            }
+          }
+        },
+        {
+          "title": "Inclusive content & language",
+          "content": "Inclusive language creates a welcoming and respectful environment that avoids discriminatory biases, slang and expressions. The words and phrases used can either foster positive connections or create distance from readers.",
+          "guidelines": [
+            "Use people-centric language. Acknowledge the reader's uniqueness/individuality. Only reference personal attributes/characteristics when relevant and in context.",
+            "Use a strengths-based approach. Focus on the reader's abilities, knowledge and other positive attributes.",
+            "Do research and ask questions. Use language that's reflective of the audience. Where appropriate, ask about language preferences.",
+            "Be conscious of language implications. Avoid language and expressions that exclude, trivialize, or disparage others.",
+            "Use diverse imagery. Images convey an organization's values and its intended audience.",
+            "Avoid euphemisms like \"differently abled\" as most end up demeaning the group of people they intended to empower.",
+            "Don't use mental health issues as metaphors for everyday behavior."
+          ],
+          "examples": {
+            "correct": "I like to keep my desk very organized.",
+            "incorrect": "I'm so OCD about keeping my desk clean."
+          },
+          "antiRacistLanguage": {
+            "title": "Anti-racist language",
+            "guidelines": [
+              "Learn about harmful terms rooted in racist and anti-Black metaphors.",
+              "Language placing a positive connotation on white/light and a negative one on black/dark reinforces anti-Black and colorist stereotypes.",
+              "Don't use \"black,\" \"white,\" \"dark,\" or \"light\" as metaphors.",
+              "Don't use language that makes you feel uncomfortable, even if you can't pinpoint why.",
+              "If one group is harmed by a word or phrase, don't use it. It's harmful to all groups."
+            ]
+          },
+          "genderNeutralLanguage": {
+            "title": "Gender-neutral language",
+            "guidelines": [
+              "When writing about someone, use the pronouns they go by.",
+              "Use the person's name if you are unsure of their preferences.",
+              "Avoid referencing gender whenever possible: business owner or businessperson, not businessman."
+            ]
+          },
+          "nonbinaryPronouns": {
+            "title": "Nonbinary pronouns",
+            "content": "Use \"they/their\" instead of \"he/him,\" \"she/her\" or \"he/she.\" This creates a sense of belonging for nonbinary people."
+          }
+        },
+        {
+          "title": "Readability",
+          "content": "Our readability target is 6th grade level and below. This makes content more supportive for users of all cognitive capabilities and more easily understood by non-native English speakers.",
+          "recommendations": [
+            "Make content easy to read and listen to. Remember that when someone is using a screen reader, the content is spoken aloud.",
+            "Use images to support copy. Illustrations and graphs can clarify complex topics. Provide captions for images and graphics to explain their relevance.",
+            "Use simple tenses. This keeps content concise and makes translation easier. Plus, people process simpler verb tenses (past, present, future) more quickly.",
+            "Have a glossary or footnotes if you use complex terms that can't be avoided.",
+            "Use easy-to-read fonts (e.g., sans-serif fonts like Arial or Helvetica). Avoid decorative fonts. Use at least 12-point font size. Larger fonts (14-16 points) are better for readability. Left-align text is easier to read."
+          ],
+          "checkingReadingLevel": {
+            "title": "Checking content reading level",
+            "content": "To check the reading level of content, paste the content into a Word document and follow the steps below.",
+            "steps": [
+              "In the toolbar, click \"Review\" then \"Spelling and Grammar.\"",
+              "Exit the spell check function by clicking the X under \"Editor.\"",
+              "Under the \"Insights\" header, click \"Document stats.\"",
+              "\"Flesch-Kincaid Reading Ease\" in this window is the number we are using to determine reading level.",
+              "Our content should have a Flesch-Kincaid Reading Ease score between 80-100.",
+              "Note: Gen AI services can quickly edit and convert writing to meet certain standards. It still requires editing and careful review."
+            ],
+            "readingEaseTable": {
+              "headers": ["Score", "Grade", "Avg. words per sentence", "Syllables per 100 words"],
+              "rows": [
+                ["90-100", "5", "8", "123"],
+                ["80-90", "6", "11", "131"],
+                ["70-80", "7", "14", "139"],
+                ["60-70", "8-9", "17", "147"],
+                ["50-60", "10-12", "21", "155"],
+                ["30-50", "College", "25", "167"],
+                ["0-30", "College graduate", "29", "192"]
+              ]
+            }
+          }
+        },
+        {
+          "title": "Health literacy",
+          "content": "All people are at risk for not understanding health information, and there is no way to know who has limited health literacy. Health literacy is the ability to obtain, understand and use healthcare information in order to make appropriate health decisions and follow instructions for treatment."
+        }
+      ]
+    },
+    {
+      "title": "Resources",
+      "content": "Resources and contacts for additional help.",
+      "resources": [
+        {
+          "name": "Endeavor Health Brand Guidelines",
+          "description": "The official brand guidelines found on the myEndeavor intranet."
+        },
+        {
+          "name": "AP Stylebook",
+          "description": "Our organization uses AP Style as the foundation of our editorial standards. This resource requires a user license, with cost ownership and responsibility resting on the relevant department or vendor."
+        }
+      ],
+      "getHelp": {
+        "title": "Get help",
+        "content": "For questions, feedback or ways to improve this guide, contact the appropriate marketing team areas below:",
+        "contacts": [
+          {
+            "area": "Editorial style and application",
+            "contact": "editorialstyle@eehealth.org"
+          },
+          {
+            "area": "Brand",
+            "contact": "Brand Strategy team at brandhelp@eehealth.org"
+          },
+          {
+            "area": "Media relations, press releases, requests for external communications by outside organizations",
+            "contact": "Media Relations team: Kristen Spears, Keith Hartenberger or Spencer Walrath"
+          },
+          {
+            "area": "Patient and family health education",
+            "contact": "Patient_Education@northshore.org"
+          }
+        ]
+      }
+    }
+  ]
+}
